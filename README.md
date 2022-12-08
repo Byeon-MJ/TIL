@@ -5,4 +5,4 @@
 * Reference는 최대한 자세하게 명시합니다.
 
 ## Python Library
-* [Numpy Note](https://github.com/Byeon-MJ/TIL/blob/main/Numpy_Note.ipynb)
+* [Numpy Review 및 정리](https://github.com/Byeon-MJ/TIL/blob/main/Numpy_Note.ipynb)
