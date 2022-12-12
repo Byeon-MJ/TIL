@@ -12,7 +12,7 @@
 
 
 ## Machine Learning
-* [[KNN, Scaling, Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20KNN%2C%20Scaling%2C%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
+* [[ML]KNN, Scaling, Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20KNN%2C%20Scaling%2C%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
 
 ## Deep Learning
 * [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
