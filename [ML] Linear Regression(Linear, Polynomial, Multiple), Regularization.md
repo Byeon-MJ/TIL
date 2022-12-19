@@ -1,4 +1,5 @@
 # [ML] Linear Regression(Linear, Polynomial, Multiple)
+[노션 정리 링크](https://www.notion.so/ML-Linear-Regression-Linear-Polynomial-Multiple-7d1f6e66532241d4bdf31cadc05ee25e)
 
 # 선형 회귀란?
 
@@ -15,9 +16,6 @@
     $$
     
 - 단순 선형 회귀에서는 기울기 $w_1$과 절편 $w_0$을 회귀 계수로 지칭하고 구한다.
-- 아래 그래프는 생선의 길이와 무게 데이터로 선형 회귀선을 구해 본 것이다.
-
-![Untitled](%5BML%5D%20Linear%20Regression(Linear,%20Polynomial,%20Multipl%207d1f6e66532241d4bdf31cadc05ee25e/Untitled.png)
 
 # 다항 선형 회귀(Polynomial Regression)
 
@@ -29,7 +27,6 @@
     
 - 항을 추가하여 다항식의 형태를 갖게 되는 선형 회귀
 
-![Untitled](%5BML%5D%20Linear%20Regression(Linear,%20Polynomial,%20Multipl%207d1f6e66532241d4bdf31cadc05ee25e/Untitled%201.png)
 
 # 다중 선형 회귀(Multiple Regression)
 
