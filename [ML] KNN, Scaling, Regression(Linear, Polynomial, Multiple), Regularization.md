@@ -116,11 +116,7 @@ train_scaled = (train_input - mean) / std
 - Normalizer 의 경우 각 샘플(행)마다 적용되는 방식
 - 한 행의 모든 특성들 사이의 유클리드 거리가 1이 되도록 스케일링
 - 일반적인 데이터 전처리의 상황에서 사용되는 것이 아니라 모델(특히나 딥러닝) 내 학습 벡터에 적용
-  
-## Hyper Parameter
 
-- 머신러닝 알고리즘이 학습하지 않는 파라미터, 사람이 직접 지정해줘야 한다.
-- Ridge와 Lasso의 alpha 파라미터가 대표적
 
 ## Reference
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing<br>
