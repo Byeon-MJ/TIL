@@ -1,4 +1,4 @@
-# [ML] KNN, Scaling, Regression(Linear, Polynomial, Multiple), Regularization
+# [ML] KNN, Scaling
 
 [Notion 정리 링크](https://stump-python-602.notion.site/ML-KNN-Scaling-Regression-Linear-Polynomial-Multiple-Regularization-27add895f71e4e0b9788a4409b4912e2)
 # K-최근접 이웃(KNN)
@@ -116,77 +116,7 @@ train_scaled = (train_input - mean) / std
 - Normalizer 의 경우 각 샘플(행)마다 적용되는 방식
 - 한 행의 모든 특성들 사이의 유클리드 거리가 1이 되도록 스케일링
 - 일반적인 데이터 전처리의 상황에서 사용되는 것이 아니라 모델(특히나 딥러닝) 내 학습 벡터에 적용
-
-# Linear Regression
-
-- 독립변수도 하나, 종속변수도 하나인 단순한 형태의 선형 회귀
-- 최적의 직선을 찾는 알고리즘
-
-# Polynomial Regression
-
-- 직선이 데이터의 특성을 알맞게 표현하지 못하고 최적의 곡선을 찾아야 할때
-- 항을 추가하여 다항식의 형태를 갖게 되는 선형 회귀
-
-# Multiple Regression
-
-- 여러 개의 특성을 사용한 선형 회귀
-- 특성이 2개면 선형회귀는 평면을 학습한다.
-
-## Overfitting, Underfitting
-
-- 모델의 훈련이 끝나면 훈련 세트와 테스트 세트에 대해서 평가 점수를 구할 수 있다.
-
-### Overfitting
-
-- 훈련 세트의 점수에 비해 테스트 세트의 점수가 과도하게 낮으면 **Overfitting**
-- 훈련 데이터의 잡음의 양에 비해 모델이 너무 복잡할 때 발생
-- 해결 방법
-    - 파라미터 수가 적은 모델을 선택, 훈련 데이터의 특성의 수 줄이기
-    - 모델이 훈련세트를 너무 과도하게 학습하지 못하도록 제약을 가하여 단순화시킴
-    - 더 많은 훈련 데이터 사용해보기
-    - 훈련 데이터의 잡음 줄이기(ex : 오류 데이터의 수정 or 이상치 제거 등)
-
-### Underfitting
-
-- 훈련 세트의 점수에 비해 테스트 세트의 점수가 너무 높거나 두 점수가 모두 너무 낮으면 **Underfitting**
-- 모델이 너무 단순해서 데이터의 내재적인 구조를 모델이 학습하지 못하는 경우
-- 해결 방법
-    - 모델 파라미터가 더 많은 강력한 모델 선택
-    - 학습 알고리즘에 더 좋은 특성 제공
-    - 모델의 제약을 줄임
-
-## Fiture Engineering
-- 기존의 특성을 사용해 새로운 특성을 뽑아내는 작업
-
-## Regularization
-
-### L1
-
-- 예측 영향력이 작은 특성의 회귀 계수를 0으로 만들어 회귀 예측시 특성이 선택되지 않게 하는 규제 모델
-
-
-### L2
-
-- 상대적으로 큰 회귀 계수 값의 예측 영향도를 감소시키기 위해서 회귀 계수값을 더 작게 만드는 규제 모델
-
-
-## Ridge & Lasso…Elastic-net
-
-- Lasso
-    
-    L1 규제를 추가한 회귀 모델
-    
-- Ridge
-    
-    L2 규제를 추가한 회귀 모델
-    
-- Elastic-net
-    
-    릿지와 라쏘를 결합한 모델
-    
-    주로 특성이 많은 데이터 세트에 적용
-    
-
+  
 ## Hyper Parameter
 
 - 머신러닝 알고리즘이 학습하지 않는 파라미터, 사람이 직접 지정해줘야 한다.
@@ -195,4 +125,3 @@ train_scaled = (train_input - mean) / std
 ## Reference
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing<br>
 https://justweon-dev.tistory.com/19<br>
-https://wooono.tistory.com/96
