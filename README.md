@@ -18,3 +18,4 @@
 
 ## Deep Learning
 * [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
+* [[OpenCV] putText in Image](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D_putText_in_Image.ipynb)
