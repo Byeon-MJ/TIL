@@ -8,7 +8,7 @@
 
 ## KNN Classification
 
-![Untitled](https://user-images.githubusercontent.com/69300448/209594695-eff4642a-3302-47d5-995d-cebac08f034b.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/209596138-266fce12-6a64-4250-845c-a0b352f4247a.png)
 
 출처: towardsdatascience
 
@@ -27,17 +27,17 @@
 
 일반적인 점과 점사이의 거리를 구하는 방법이다.
 
-![Untitled 1](https://user-images.githubusercontent.com/69300448/209594792-9fe3b4be-3511-4158-85e7-cb1c5707ba95.png)
+![Untitled 1](https://user-images.githubusercontent.com/69300448/209596152-ff776088-4523-4abc-bc60-cab18a50e45b.png)
 
 출처: Wikipedia
 
 3차원에서 유클리드 거리 구하는 예시
 
-![Untitled 2](https://user-images.githubusercontent.com/69300448/209594871-b9c1994d-183b-48a2-afcf-a68a16de3297.png)
+![Untitled 2](https://user-images.githubusercontent.com/69300448/209596167-c15c7f39-4852-40db-b77e-325082a42387.png)
+
+![Untitled 3](https://user-images.githubusercontent.com/69300448/209596193-d2f90088-cf60-4b51-9f22-1f97afa003db.png)
 
 출처: ratsgo's blog
-
-![Untitled 3](https://user-images.githubusercontent.com/69300448/209594950-d120e051-5987-444d-b384-c6e22363ea73.png)
 
 ### 2. Manhattan Distance
 
@@ -45,7 +45,7 @@
 
 아래 예시의 Route 1, Route 2, Route 3은 서로 다른 길이지만 맨해튼 거리로는 같다.
 
-![Untitled 4](https://user-images.githubusercontent.com/69300448/209595100-5cab0aa7-7c8c-495a-9ecd-1dc1449fa09a.png)
+![Untitled 4](https://user-images.githubusercontent.com/69300448/209596209-642da419-20a7-4d53-b132-609236153a33.png)
 
 ## KNN Regression
 
