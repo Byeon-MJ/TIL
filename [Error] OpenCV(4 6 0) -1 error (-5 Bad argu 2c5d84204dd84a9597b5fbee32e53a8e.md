@@ -7,8 +7,7 @@ OpenCV 의 Tracker 를 사용하여 Face Tracking 프로젝트를 연습하던 �
 참고한 코드의 OpenCV version은 `4.1.2` 버전이었고 내가 실습한 Colab 환경의 OpenCV 버전은 `4.6.0` 버전이었다.
 
 # 1. MultiTracker_create
-
-![Untitled](%5BOpenCV%5D%20Error%20OpenCV(4%206%200)%20-1%20error%20(-5%20Bad%20argu%202c5d84204dd84a9597b5fbee32e53a8e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/209591832-4acc23d9-2197-489f-af29-746480524d86.png)
 
 연습을 참고하며 공부한 코드에서는 `cv2.MultiTracker_create()` 를 이용해서 MultiTracker 를 불러왔는데,
 
@@ -33,7 +32,9 @@ error: OpenCV(4.6.0) :-1: error: (-5:Bad argument) in function 'add'
 > - Expected Ptrcv::legacy::Tracker for argument 'newTracker'
 > - Expected Ptrcv::legacy::Tracker for argument 'newTracker'
 
-![Untitled](%5BOpenCV%5D%20Error%20OpenCV(4%206%200)%20-1%20error%20(-5%20Bad%20argu%202c5d84204dd84a9597b5fbee32e53a8e/Untitled%201.png)
+
+![Untitled 1](https://user-images.githubusercontent.com/69300448/209591991-637022e2-a7c4-4d9a-ad3b-ea355dbe9fad.png)
+
 
 add의 첫 파라미터로 new Tracker를 넣어줘야하는데 최초 트래커는 아래 코드와 같이 만들었었다. 
 
