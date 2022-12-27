@@ -9,7 +9,7 @@
 
 ## KNN Classification
 
-![출처: towardsdatascience](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/223643b5-0c01-4c7b-be59-9427df35fb1c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/209594695-eff4642a-3302-47d5-995d-cebac08f034b.png)
 
 출처: towardsdatascience
 
@@ -28,23 +28,25 @@
 
 일반적인 점과 점사이의 거리를 구하는 방법이다.
 
-![출처: Wikipedia](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b197e10-c048-4583-baa5-6916f1b5ca3f/Untitled.png)
+![Untitled 1](https://user-images.githubusercontent.com/69300448/209594792-9fe3b4be-3511-4158-85e7-cb1c5707ba95.png)
 
 출처: Wikipedia
 
 3차원에서 유클리드 거리 구하는 예시
 
-![출처: ratsgo's blog](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82ec1e39-cd1c-4fd1-bf17-6a8cccc3e954/Untitled.png)
+![Untitled 2](https://user-images.githubusercontent.com/69300448/209594871-b9c1994d-183b-48a2-afcf-a68a16de3297.png)
 
 출처: ratsgo's blog
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/226ee6a5-2deb-4768-814f-55f870b351e7/Untitled.png)
+![Untitled 3](https://user-images.githubusercontent.com/69300448/209594950-d120e051-5987-444d-b384-c6e22363ea73.png)
 
 ### 2. Manhattan Distance
 
 점과 점 사이의 직선 거리가 아니라 X축과 Yㅊ푹을 따라 간 거리를 의미한다.
 
 아래 예시의 Route 1, Route 2, Route 3은 서로 다른 길이지만 맨해튼 거리로는 같다.
+
+![Untitled 4](https://user-images.githubusercontent.com/69300448/209595100-5cab0aa7-7c8c-495a-9ecd-1dc1449fa09a.png)
 
 ## KNN Regression
 
