@@ -1,5 +1,4 @@
 # [ML] Linear Regression(Linear, Polynomial, Multiple)
-[노션 정리 링크](https://www.notion.so/ML-Linear-Regression-Linear-Polynomial-Multiple-7d1f6e66532241d4bdf31cadc05ee25e)
 
 # 선형 회귀란?
 
@@ -16,6 +15,9 @@
     $$
     
 - 단순 선형 회귀에서는 기울기 $w_1$과 절편 $w_0$을 회귀 계수로 지칭하고 구한다.
+- 아래 그래프는 생선의 길이와 무게 데이터로 선형 회귀선을 구해 본 것이다.
+
+![Untitled](https://user-images.githubusercontent.com/69300448/209596011-41db4181-745d-4cd4-8d2a-6a7548bd118f.png)
 
 # 다항 선형 회귀(Polynomial Regression)
 
@@ -27,6 +29,7 @@
     
 - 항을 추가하여 다항식의 형태를 갖게 되는 선형 회귀
 
+![Untitled 1](https://user-images.githubusercontent.com/69300448/209596027-c4d8f8c3-7e9c-49a6-b5ff-b08c2c44a0b5.png)
 
 # 다중 선형 회귀(Multiple Regression)
 
@@ -76,13 +79,13 @@
 
 - 예측 영향력이 작은 특성의 회귀 계수를 0으로 만들어 회귀 예측시 특성이 선택되지 않게 하는 규제 모델
 
-![Untitled](%5BML%5D%20Linear%20Regression(Linear,%20Polynomial,%20Multipl%207d1f6e66532241d4bdf31cadc05ee25e/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/69300448/209596059-97bc1e77-7127-4ce3-a09b-9762ce5ce130.png)
 
 ### L2
 
 - 상대적으로 큰 회귀 계수 값의 예측 영향도를 감소시키기 위해서 회귀 계수값을 더 작게 만드는 규제 모델
 
-![Untitled](%5BML%5D%20Linear%20Regression(Linear,%20Polynomial,%20Multipl%207d1f6e66532241d4bdf31cadc05ee25e/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/69300448/209596067-a307157a-2216-4911-b75d-f691b0948182.png)
 
 ## Ridge & Lasso…Elastic-net
 
