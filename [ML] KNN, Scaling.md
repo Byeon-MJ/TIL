@@ -1,6 +1,5 @@
 # [ML] KNN, Scaling
 
-[Notion 정리 링크](https://stump-python-602.notion.site/ML-KNN-Scaling-Regression-Linear-Polynomial-Multiple-Regularization-27add895f71e4e0b9788a4409b4912e2)
 # K-최근접 이웃(KNN)
 
 - 지도 학습 알고리즘 중 하나, 굉장히 직관적이고 간단하다.
