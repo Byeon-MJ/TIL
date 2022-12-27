@@ -54,7 +54,7 @@ Hash(해시) 자료구조에 대한 공부!
 
 - 입출력 예
 
-![Untitled](%5BPython%5D%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20Hash%2038af85ecf13b48b08ffd7ce003cba7b0/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/209628282-8a2c3240-dcc9-4b50-a29a-544b9516e949.png)
 
 입출력 예처럼 `participant` 와 `completion`이라는 두 리스트를 비교해서 
 
@@ -73,7 +73,7 @@ def solution(participant, completion):
 
 전제 리스트 길이만큼 반복하여 탐색하기 때문에 시간이 오래 걸리고, 결과적으로 효율성 테스트에서 시간초과가 걸려서 문제를 통과하지 못했다.
 
-![Untitled](%5BPython%5D%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20Hash%2038af85ecf13b48b08ffd7ce003cba7b0/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/69300448/209628300-238a92df-0b0b-476b-b98f-f3cd01d9eda2.png)
 
 ### Dictionary를 이용한 문제 풀이
 
@@ -93,7 +93,7 @@ def solution(participant, completion):
 
 딕셔너리를 이용하여 문제를 풀이해주면 효율성 테스트도 통과하여 정답을 맞출수 있었다.
 
-![Untitled](%5BPython%5D%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20Hash%2038af85ecf13b48b08ffd7ce003cba7b0/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/69300448/209628321-c293ac1e-d521-42b0-acf5-e821e4820b69.png)
 
 앞으로 원소를 검색하거나 더 빠른 속도로 문제를 해결해야 할 때에는 해시를 기억하고 활용해보도록 해야겠다!
 
