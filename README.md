@@ -21,4 +21,4 @@
 * [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
 * [[OpenCV] putText in Image](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D_putText_in_Image.ipynb)
 * [[OpenCV] Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'.md](https://github.com/Byeon-MJ/TIL/blob/f05c15b70a6ff8b7405f5c57011b082e6eb64061/%5BError%5D%20:%20OpenCV(4.6.0)%20:%20-1%20:%20error:%20(-5:Bad%20argument)%20in%20function%20'add'.md)
-* [[DL] Get Start Keras](https://github.com/Byeon-MJ/TIL/blob/main/Get_Start_Keras.ipynb)
+* [[DL] Get Start Keras, Simple ANN](https://github.com/Byeon-MJ/TIL/blob/main/Get_Start_Keras.ipynb)
