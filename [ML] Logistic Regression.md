@@ -43,7 +43,7 @@ $$
     - `p_i`: 데이터 샘플 `i`의 log-odd의 sigmoid (즉, 데이터 샘플 `i`가 분류에 속할 확률)
 - log loss를 활용하여 편미분 하면 경사하강법 알고리즘을 사용할 수 있다.
 
-[](https://hleecaster.com/ml-logistic-regression-concept/)
+[hleecaster.com](https://hleecaster.com/ml-logistic-regression-concept/)
 
 [[딥러닝] 선형회귀와 로지스틱회귀](https://ebbnflow.tistory.com/129)
 
