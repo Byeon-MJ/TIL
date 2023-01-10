@@ -37,10 +37,10 @@ $$
 J(\theta) = -{1 \over m} \sum_{i=1}^{m} \lbrack y^{(i)}log(\hat{p}^{(i)})+(1-y^{(i)})log(1-\hat{p}^{(i)}) \rbrack
 $$
     
-    - `m`:데이터 총 개수
-    - `y_i`: 데이터 샘플 `i`의 분류
-    - `i`: 데이터 샘플 log-odd
-    - `p_i`: 데이터 샘플 `i`의 log-odd의 sigmoid (즉, 데이터 샘플 `i`가 분류에 속할 확률)
+    - m   : 데이터 총 개수
+    - y_i : 데이터 샘플 `i`의 분류
+    - i   : 데이터 샘플 log-odd
+    - p_i : 데이터 샘플 `i`의 log-odd의 sigmoid (즉, 데이터 샘플 `i`가 분류에 속할 확률)
 - log loss를 활용하여 편미분 하면 경사하강법 알고리즘을 사용할 수 있다.
 
 # Reference
