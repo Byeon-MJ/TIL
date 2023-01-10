@@ -7,7 +7,7 @@
 - 데이터가 어떤 범주에 속할 확률을 0에서 1 사이의 값으로 예측하고 그 확률에 따라 가능성이 더 높은 범주에 속하는 것으로 분류한다.
 - **선형 회귀와 차이점** : 학습을 통해 선형 함수의 회귀 최적선을 찾는 것이 아니라 시그모이드(Sigmoid) 함수 최적선을 찾고 이 시그모이드 함수의 반환 값을 확률로 간주해 분류를 걸정한다
 
-![Untitled](%5BML%5D%20Logistic%20Regression%2004232fb4a1b54153940884caa849fff8/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/211442401-ec60796a-3228-4ba8-af50-082d16340710.png)
 
 # 로지스틱 회귀의 확률 추정
 
@@ -20,7 +20,7 @@ $$
 y = \frac{1}{1+ e^{-t}}
 $$
 
-![Untitled](%5BML%5D%20Logistic%20Regression%2004232fb4a1b54153940884caa849fff8/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/69300448/211442457-7cf3472f-e568-4789-ae3c-5ee393109471.png)
 
 - 위 계산 식에서 t를 `logit` 혹은 log-odds 라고 부른다. 양성, 음성 클래스의 추정확률 사이의 로그 비율
 - 각 feature들의 계수 log-odds를 구한 후 Sigmoid 함수를 적용하여, 실제로 데이터가 해당 클래스에 속할 확률을 0과 1사이의 값으로 나타낸다.
