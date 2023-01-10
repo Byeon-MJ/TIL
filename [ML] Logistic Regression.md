@@ -33,9 +33,9 @@ $$
 - log-odds 가 0에 가까워지면 -log(t)가 커지고,  log-odds가 1에 가까우면 -log(t)는 0에 가까워진다.
 - 전체 훈련세트에 대한 비용함수는 훈련 샘플의 비용을 평균한 것 → log loss
     
-    $$
-    J(\theta) =- {1 \over m} \sum_{i=1}^{m} [y^{(i)}log(\hat{p}^{(i)})+(1-y^{(i)})log(1-\hat{p}^{(i)})]
-    $$
+$$
+J(\theta) = -{1 \over m} \sum_{i=1}^{m} \lbrack y^{(i)}log(\hat{p}^{(i)})+(1-y^{(i)})log(1-\hat{p}^{(i)}) \rbrack
+$$
     
     - `m`:데이터 총 개수
     - `y_i`: 데이터 샘플 `i`의 분류
@@ -43,6 +43,8 @@ $$
     - `p_i`: 데이터 샘플 `i`의 log-odd의 sigmoid (즉, 데이터 샘플 `i`가 분류에 속할 확률)
 - log loss를 활용하여 편미분 하면 경사하강법 알고리즘을 사용할 수 있다.
 
+# Reference
+[Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B7033438574)
 [hleecaster.com](https://hleecaster.com/ml-logistic-regression-concept/)
 
 [[딥러닝] 선형회귀와 로지스틱회귀](https://ebbnflow.tistory.com/129)
