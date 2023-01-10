@@ -16,6 +16,7 @@
 * [[ML] KNN, Scaling](https://github.com/Byeon-MJ/TIL/blob/8e50ffe926e339522b5c6e78fa85405558dfe1d4/%5BML%5D%20KNN,%20Scaling.md)
 * [[ML] Encoding : Label & One Hot](https://github.com/Byeon-MJ/TIL/blob/main/Encoding_Label_One_Hot.ipynb)
 * [[ML] Linear Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20Linear%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
+* [[ML] Logistic Regression](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20Logistic%20Regression.md)
 
 ## Deep Learning
 * [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
