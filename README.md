@@ -25,3 +25,4 @@
 * [[DL] Get Start Keras, Simple ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Get_Start_Keras_Simple_ANN.ipynb)
 * [[DL] Tensor, AutoGrad, Gradient Descent](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Tensor_AutoGrad_GradientDescent.ipynb)
 * [[DL] PyTorch ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_ANN.ipynb)
+* [[DL] PyTorch_DNN]()
