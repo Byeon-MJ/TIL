@@ -26,3 +26,4 @@
 * [[DL] Tensor, AutoGrad, Gradient Descent](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Tensor_AutoGrad_GradientDescent.ipynb)
 * [[DL] PyTorch ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_ANN.ipynb)
 * [[DL] PyTorch DNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_DNN.ipynb)
+* [[DL] PyTorch CNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_CNN.ipynb)
