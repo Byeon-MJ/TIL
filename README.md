@@ -7,6 +7,7 @@
 
 ## Python
 * [내장 함수(map, filter, zip, enumerate)](https://github.com/Byeon-MJ/TIL/blob/main/map_filter_zip_enumerate.ipynb)
+* [[Python] List Delete Time Comparison](https://github.com/Byeon-MJ/TIL/blob/main/%5BPython%5D%20List_Delete_Time_Comparison.ipynb)
 
 ## Python Library
 * [Numpy Review 및 정리](https://github.com/Byeon-MJ/TIL/blob/main/Numpy_Note.ipynb)
