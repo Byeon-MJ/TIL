@@ -31,9 +31,9 @@ Kaggle에서 **`Account`**에 들어가면 API Token을 생성할 수 있는 부
 
 **`Create API Token`** 버튼을 눌러서 **`kaggle.json`** 파일을 다운받아준다.
 
-![Untitled](%5BOthers%5D%20Kaggle%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%89%E1%85%A6%E1%86%BA%20%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%203d6e9af9777e4d6d93fbd42bd01189f3/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/216241138-d4e628a4-9e42-4fdb-943c-b54365b4ff9d.png)
 
-![Untitled](%5BOthers%5D%20Kaggle%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%89%E1%85%A6%E1%86%BA%20%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%203d6e9af9777e4d6d93fbd42bd01189f3/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/69300448/216241192-d506dd6f-5faa-4456-9409-57081e3c6f00.png)
 
 # 3. kaggle.json 업로드, 이동하기
 
@@ -58,7 +58,7 @@ files.upload()
 
 필요한 데이터셋이 있는 페이지로 이동한 뒤, `Copy API command` 버튼을 이용해 API 코드를 복사하고 아래 코드처럼 붙여넣은 후 실행하면 데이터셋이 다운로드가 된다.
 
-![Untitled](%5BOthers%5D%20Kaggle%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%89%E1%85%A6%E1%86%BA%20%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%203d6e9af9777e4d6d93fbd42bd01189f3/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/69300448/216241222-21bf2027-7121-4b19-8e6d-97f837f8b49e.png)
 
 ```python
 !kaggle kernels output nikhilpandey360/lung-segmentation-from-chest-x-ray-dataset -p /path/to/dest
