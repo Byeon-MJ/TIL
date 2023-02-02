@@ -30,4 +30,4 @@
 * [[DL] PyTorch CNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_CNN.ipynb)
 
 ## Others
-* [Kaggle API Dataset Download]()
+* [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
