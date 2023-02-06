@@ -226,7 +226,7 @@ $ tail -10 file.txt
 $ git clone http://github.com/some_project
 ```
 
-![Untitled](%5BLinux%5D%20%E1%84%82%E1%85%A2%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A9%E1%84%85%E1%85%A7%E1%84%80%E1%85%A9%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%20Linux%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%2025cdb68b84e04258a4a4f9125c3e9861/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/216914162-a13bf381-cd38-4b3a-bb96-766a424b2bda.png)
 
 ### 파일 다운로드 : wget
 
@@ -236,10 +236,9 @@ $ wget http://some.com/path/file_name
 ```
 
 - 다운로드 링크 획득하기
-    
-    ![Untitled](%5BLinux%5D%20%E1%84%82%E1%85%A2%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A9%E1%84%85%E1%85%A7%E1%84%80%E1%85%A9%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%20Linux%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%2025cdb68b84e04258a4a4f9125c3e9861/Untitled%201.png)
-    
 
+    ![Untitled 1](https://user-images.githubusercontent.com/69300448/216914195-9ec8d3ee-721e-45ea-9d09-9c4e4595af15.png)
+ 
 ## 압축
 
 ### tar 파일 압축 풀기/하기 : tar
@@ -260,7 +259,7 @@ $ tar cvfz dir.tar.gz dir
 
 - 리눅스에서는 압축파일 형식으로 tar.gz가 많이 사용됨
 
-![Untitled](%5BLinux%5D%20%E1%84%82%E1%85%A2%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A9%E1%84%85%E1%85%A7%E1%84%80%E1%85%A9%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%20Linux%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%2025cdb68b84e04258a4a4f9125c3e9861/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/69300448/216914287-51992813-e458-4fbd-b089-885c7e424f85.png)
 
 ### rar 파일 압축 풀기/하기 : unrar, rar
 
@@ -337,8 +336,7 @@ $ tree
     
     -d 는 현재 디렉토리에서만
     
-    ![Untitled](%5BLinux%5D%20%E1%84%82%E1%85%A2%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A9%E1%84%85%E1%85%A7%E1%84%80%E1%85%A9%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%20Linux%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%2025cdb68b84e04258a4a4f9125c3e9861/Untitled%203.png)
-
+    ![Untitled 3](https://user-images.githubusercontent.com/69300448/216914329-a581815c-19a1-4209-afe2-0c1608e87a6e.png)
 
 ### Vim 으로 메모장 생성
 
