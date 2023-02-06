@@ -16,7 +16,7 @@ net stop mysql
 
 서비스 구동이 안되어 있으면 아래 에러 발생
 
-![Untitled](%5BMySQL%5D%20%E1%84%82%E1%85%A2%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A9%E1%84%85%E1%85%A7%E1%84%80%E1%85%A9%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%20MySQL%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%201f48c6a688dd421da9478b1a83a94722/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/216914462-8a0979e3-3043-40a5-808e-a0fffa31b4d4.png)
 
 ```python
 mysql -u root -p → password
