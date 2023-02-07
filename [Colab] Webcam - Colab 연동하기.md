@@ -21,9 +21,9 @@ Colab에서는 JavaScript를 이용하여 Webcam을 사용할 수 있다고 해�
 
 Colab에서 왼쪽 아래 < > 모양을 누르면 미리 설정된 코드를 불러올 수 있는 코드 스니펫을 불러올 수 있다.
 
-![Untitled](%5BColab%5D%20Webcam%20-%20Colab%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%2007daf1b035b94038839036310103cb39/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/217141777-2859f854-155f-487e-adec-049723efe49e.png)
 
-![Untitled](%5BColab%5D%20Webcam%20-%20Colab%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%2007daf1b035b94038839036310103cb39/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/69300448/217141800-d6e456c8-a056-45f6-b156-ce6110221cd2.png)
 
 ```python
 from IPython.display import display, Javascript
