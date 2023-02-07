@@ -6,6 +6,8 @@ Colab에서는 JavaScript를 이용하여 Webcam을 사용할 수 있다고 해�
 
 아래 내용은 기본적은 Colab 가이드 문서에서 Webcam을 연동하는 방법이다.
 
+- Colab : <a href="https://colab.research.google.com/github/Byeon-MJ/TIL/blob/main/%5BColab%5D%20Webcam_Colab_Interlock.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+
 • Reference : Colab 가이드 문서
 
  [https://colab.research.google.com/drive/1tbAeRge6KKgCYdC6ihDrsl80aRYoVOMa#scrollTo=T7tY2g3ATPo1&forceEdit=true&sandboxMode=true%EB%A5%BC](https://colab.research.google.com/drive/1tbAeRge6KKgCYdC6ihDrsl80aRYoVOMa#scrollTo=T7tY2g3ATPo1&forceEdit=true&sandboxMode=true%EB%A5%BC)
