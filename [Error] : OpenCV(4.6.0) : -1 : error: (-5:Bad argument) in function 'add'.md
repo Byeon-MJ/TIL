@@ -31,7 +31,7 @@ error: OpenCV(4.6.0) :-1: error: (-5:Bad argument) in function 'add'
 > Overload resolution failed:
 > 
 > - Expected Ptrcv::legacy::Tracker for argument 'newTracker'
-> - Expected Ptrcv::legacy::Tracker for argument 'newTracker'
+> - Expected Ptrcv::legacy::Tracker for argument 'newTracker' 
 
 ![Untitled 1](https://user-images.githubusercontent.com/69300448/209595605-52a85e94-8977-4acd-b6a7-fdcb37a5fac1.png)
 
