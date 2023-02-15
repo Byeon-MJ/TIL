@@ -88,7 +88,7 @@
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](2%202%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%2052b14fbeec224160a8e8faf327dd92b7/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/219046716-09ac0c32-82d2-4425-9e16-3d76e1f0a16f.png)
 > 
 
 ### 2.2.3 다각형 그리기
@@ -135,7 +135,7 @@
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](2%202%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%2052b14fbeec224160a8e8faf327dd92b7/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/219046774-d1017ffc-69af-429b-aead-6adb2bb2d95b.png)
 > 
 
 ### 2.2.4 원, 타원, 호 그리기
@@ -195,7 +195,7 @@
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](2%202%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%2052b14fbeec224160a8e8faf327dd92b7/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/219046849-4afd5a12-aab1-4d69-9b50-5d671b4782f6.png)
 > 
 
 호를 표시하고자 할 때 시작 각도는 3시 방향에서 시작하여 시계 방향으로 돌면서 6시 방향에서 90도, 9시 방향에서 180도와 같은 방식으로 진행
@@ -262,5 +262,5 @@
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](2%202%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%2052b14fbeec224160a8e8faf327dd92b7/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/219046901-cb71a55c-91e7-43e9-8f2a-5373a875208c.png)
 >
