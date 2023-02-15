@@ -29,10 +29,10 @@
 * [[DL] PyTorch ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_ANN.ipynb)
 * [[DL] PyTorch DNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_DNN.ipynb)
 * [[DL] PyTorch CNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_CNN.ipynb)
-* [[OpenCV] 이미지와 비디오 입출력](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%202.1%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
-* [[OpenCV] 그림 그리기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%202.2%20%EA%B7%B8%EB%A6%BC%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
-* [[OpenCV] 창 관리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%202.2%20%EA%B7%B8%EB%A6%BC%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
-* [[OpenCV] 이벤트 처리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%202.4%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
+* [[OpenCV] 이미지와 비디오 입출력](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
+* [[OpenCV] 그림 그리기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EA%B7%B8%EB%A6%BC%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
+* [[OpenCV] 창 관리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%B0%BD%20%EA%B4%80%EB%A6%AC.md)
+* [[OpenCV] 이벤트 처리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
