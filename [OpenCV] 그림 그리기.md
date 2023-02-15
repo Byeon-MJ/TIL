@@ -53,7 +53,7 @@
 > cv2.line(img, (0, 0), (500, 500), (0, 0, 255))
 > ```
 > 
-> ![Untitled](2%202%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%2052b14fbeec224160a8e8faf327dd92b7/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/219046566-f960bfc5-1e09-483a-9583-9f76995662e3.png)
 > 
 
 ### 2.2.2 사각형 그리기
