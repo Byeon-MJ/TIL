@@ -143,7 +143,7 @@ cv2.setMouseCallback('title', onMouse)
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](2%204%20%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B3%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20cc5ff460bb0e4ca999a43d05a9aefad3/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/219047087-f737a971-36b5-4d18-b964-e7689f87215c.png)
 > 
 
 이벤트 내에서 그리기를 했다면 반드시 그림이 그려진 이미지를 다시 화면에 표시해야 한다.
@@ -204,7 +204,7 @@ cv2.setMouseCallback('title', onMouse)
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](2%204%20%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B3%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20cc5ff460bb0e4ca999a43d05a9aefad3/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/219047150-9274290b-fea6-4f0c-8cc3-b0e0f760deb4.png)
 > 
 
 ### 2.4.3 트랙바
@@ -271,7 +271,7 @@ cv2.createTrackbar('trackbar', 'win_name', 0, 100, onChange)
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](2%204%20%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B3%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20cc5ff460bb0e4ca999a43d05a9aefad3/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/219047194-be7e381f-067c-490f-aea7-f231f1ba42dd.png)
 > 
 1. 이벤트 처리 함수를 만들고
 2. 트랙바를 생성하면서 전달
