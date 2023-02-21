@@ -23,12 +23,18 @@
 * [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
 * [[OpenCV] putText in Image](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D_putText_in_Image.ipynb)
 * [[OpenCV] Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'.md](https://github.com/Byeon-MJ/TIL/blob/f05c15b70a6ff8b7405f5c57011b082e6eb64061/%5BError%5D%20:%20OpenCV(4.6.0)%20:%20-1%20:%20error:%20(-5:Bad%20argument)%20in%20function%20'add'.md)
-* [[DL] Get Start Keras, Simple ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Get_Start_Keras_Simple_ANN.ipynb)
 * [[DL] Tensor, AutoGrad, Gradient Descent](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Tensor_AutoGrad_GradientDescent.ipynb)
 * [[DL] UNet Image Segmentation](https://github.com/Byeon-MJ/DL_Practice_Repo/blob/main/Unet_Image_Segmentation.ipynb)
+
+**[Tensorflow & Keras]**
+* [[DL] Get Start Keras, Simple ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Get_Start_Keras_Simple_ANN.ipynb)
+
+**[PyTorch]**
 * [[DL] PyTorch ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_ANN.ipynb)
 * [[DL] PyTorch DNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_DNN.ipynb)
 * [[DL] PyTorch CNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_CNN.ipynb)
+
+**[OpenCV]**
 * [[OpenCV] 이미지와 비디오 입출력](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
 * [[OpenCV] 그림 그리기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EA%B7%B8%EB%A6%BC%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
 * [[OpenCV] 창 관리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%B0%BD%20%EA%B4%80%EB%A6%AC.md)
