@@ -44,7 +44,7 @@
 > plt.show()
 > ```
 > 
-> ![Untitled](4%203%20%E1%84%89%E1%85%B3%E1%84%85%E1%85%A6%E1%84%89%E1%85%B5%E1%84%92%E1%85%A9%E1%86%AF%E1%84%83%E1%85%B5%E1%86%BC%20a3ad5fa1f3414164a95cea6bd2319fb6/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/220490241-6d275d26-9f23-4e53-b02c-5cbca123de00.png)
 > 
 - **ret, out = cv2.threshold(img, threshold, value, type_flag)**
     - img : Numpy 배열, 변환할 이미지
@@ -88,7 +88,7 @@
 > plt.show()
 > ```
 > 
-> ![Untitled](4%203%20%E1%84%89%E1%85%B3%E1%84%85%E1%85%A6%E1%84%89%E1%85%B5%E1%84%92%E1%85%A9%E1%86%AF%E1%84%83%E1%85%B5%E1%86%BC%20a3ad5fa1f3414164a95cea6bd2319fb6/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/220490313-2faf6712-c13c-45c6-a8f2-cc073e2b73e3.png)
 > 
 
 ### 4.3.2 오츠의 알고리즘
@@ -151,7 +151,7 @@ ret, t_img = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)
 > plt.show()
 > ```
 > 
-> ![Untitled](4%203%20%E1%84%89%E1%85%B3%E1%84%85%E1%85%A6%E1%84%89%E1%85%B5%E1%84%92%E1%85%A9%E1%86%AF%E1%84%83%E1%85%B5%E1%86%BC%20a3ad5fa1f3414164a95cea6bd2319fb6/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/220490356-0aefd219-7b07-4a58-b4aa-8333004db59e.png)
 > 
 
 다만, 오츠의 알고리즘은 모든 경우의 수에 대해 경계값을 조사해야 하므로 속도가 빠르지 못하다는 단점이 있다. 또한 노이즈가 많은 영상에는 오츠의 알고리즘을 적용해도 좋은 결과를 얻지 못하는 경우가 많다. 나중에 배울 블러링 필터를 먼저 적용해야 한다.
@@ -209,7 +209,7 @@ ret, t_img = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)
 > plt.show()
 > ```
 > 
-> ![Untitled](4%203%20%E1%84%89%E1%85%B3%E1%84%85%E1%85%A6%E1%84%89%E1%85%B5%E1%84%92%E1%85%A9%E1%86%AF%E1%84%83%E1%85%B5%E1%86%BC%20a3ad5fa1f3414164a95cea6bd2319fb6/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/220490388-8e36a7db-a4bc-4bb2-b7a8-86eff08ba31f.png)
 > 
 
 오츠의 알고리즘을 적용해서 96을 경계값으로 전체 이미지에 적용하면 좌측 하단은 검게 타버리고, 우측 상단은 하얗게 날아간다.
