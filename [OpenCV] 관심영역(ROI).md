@@ -54,7 +54,7 @@ roi = img[y:y+h, x:x+w]
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](./Image/[OpenCV] 관심영역(ROI)/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/220489217-74840167-ad06-4b0a-bf32-9cf7dc9327f7.png)
 > 
 
 > **[예제 4-2] 관심영역 복제 및 새 창 띄우기(4.2_roicopy.ipynb)**
@@ -102,7 +102,7 @@ roi = img[y:y+h, x:x+w]
 > plt.show()
 > ```
 > 
-> ![Untitled](4%201%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8(ROI)%2060ac859f536b4d5993e532f2c562bb9b/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/220489286-1a9dfc6b-c190-4d18-8cf9-3c14b6ca2944.png)
 > 
 
 ### 4.1.2 마우스로 관심영역 지정
@@ -165,7 +165,7 @@ roi = img[y:y+h, x:x+w]
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](4%201%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8(ROI)%2060ac859f536b4d5993e532f2c562bb9b/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/220489308-6b28ad88-9935-4346-ab1d-60b06c070c2b.png)
 > 
 
 OpenCV 3는 관심영역을 지정하기 위한 새로운 함수를 제공한다.
@@ -203,5 +203,5 @@ OpenCV 3는 관심영역을 지정하기 위한 새로운 함수를 제공한다
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](4%201%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8(ROI)%2060ac859f536b4d5993e532f2c562bb9b/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/220489332-9fb51c9a-c795-4584-94e6-00746b7e9680.png)
 >
