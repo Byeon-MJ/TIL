@@ -40,6 +40,8 @@
 * [[OpenCV] 창 관리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%B0%BD%20%EA%B4%80%EB%A6%AC.md)
 * [[OpenCV] 이벤트 처리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
 * [[OpenCV] 관심영역(ROI)](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EA%B4%80%EC%8B%AC%EC%98%81%EC%97%AD(ROI).md)
+* [[OpenCV] 컬러 스페이스](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%BB%AC%EB%9F%AC%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+* [[OpenCV] 스레시 홀딩](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%8A%A4%EB%A0%88%EC%8B%9C%20%ED%99%80%EB%94%A9.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
