@@ -98,7 +98,7 @@
 > plt.show()
 > ```
 > 
-> ![Untitled](4%202%20%E1%84%8F%E1%85%A5%E1%86%AF%E1%84%85%E1%85%A5%20%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%20a6ee7d5fa41d4b54a180c1cf22cbc9ec/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/220490130-45acb74a-ea39-41f8-91d1-6a4fcfd41d63.png)
 > 
 - 원본 이미지는 배경이 투명한 OpenCV 로고이다. 왼쪽 두 그림은 투명한 배경이 검은색으로 표시되었고, 로고 아래의 글씨도 원래 검은색이라서 보이지 않는다.
 - cv2.IMREAD_UNCHANGED 옵션으로 읽은 이미지는 shape가 (240, 195, 4)로 마지막 채널이 하나 더 있는 것을 알 수 있다.
@@ -145,7 +145,7 @@
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](4%202%20%E1%84%8F%E1%85%A5%E1%86%AF%E1%84%85%E1%85%A5%20%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%20a6ee7d5fa41d4b54a180c1cf22cbc9ec/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/220490156-9f4fbf79-8717-4d7f-a944-f38157f350bb.png)
 > 
 
 위 예제에서 dtype을 uint16 타입으로 변경한 이유는 평균값을 구하는 과정에서 3채널의 값을 합했을 때 255보다 큰 값이 나오면 uint8로는 표현하기 불가능하므로 변경하여 계산을 마친 후 다시 uint8로 되돌리는 방법을 사용하였다.
