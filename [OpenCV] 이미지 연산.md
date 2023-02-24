@@ -152,7 +152,7 @@ cv2 = cv2.add(a, b, b.copy(), mask)
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/221179327-8c4999f5-96ba-4c3b-8ca6-f2bc7c5477f9.png)
 > 
 
 두 영상을 적절하게 합성하려면 각 픽셀의 합이 255가 되지 않게 각각의 영상에 가중치를 줘서 계산을 해야한다. 예를 들어, 두 영상이 정확히 절반씩 반영된 결과 영상을 원한다면 각 영상의 픽셀 값에 각각 50%씩 곱해서 새로운 영상을 생성하면 된다. 각 영상에 적용할 가중치를 **알파(alpha)값**이라고 부른다.
@@ -209,7 +209,7 @@ OpenCV에서는 이것을 구현한 함수를 제공한다.
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/221179506-2de44aa4-129f-4e9b-87cf-ab8eb0a4a3b6.png)
 > 
 
 > **[예제 4-17] 트랙바로 알파 블렌딩(4.17_blending_alpha_trackbar.ipynb)**
@@ -240,7 +240,7 @@ OpenCV에서는 이것을 구현한 함수를 제공한다.
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/221179590-6b153fea-ce00-47d5-b347-c69b204fd5dd.png)
 > 
 
 ### 4.4.3 비트와이즈 연산
@@ -289,7 +289,7 @@ OpenCV는 두 영상의 각 픽셀에 대한 비트와이즈(bitwise, 비트 단
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/221179652-1dbe7b1b-b90f-42f4-8bc4-e13c893fa528.png)
 > 
 
 비트와이즈 연산으로 영상의 일부분을 원하는 모양으로 떼어낼 수도 있다.
@@ -325,7 +325,7 @@ OpenCV는 두 영상의 각 픽셀에 대한 비트와이즈(bitwise, 비트 단
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/221179699-76aa61e8-2fab-4194-9df0-90d0e84795a2.png)
 > 
 
 마스킹 부분에서 원본 이미지와 마스크 이미지의 cv2.bitwise_and() 연산으로 원 이외의 부분을 모두 0으로 채워서 원하는 영역만 떼어낼 수 있다.
@@ -391,7 +391,7 @@ masked = cv2.bitwise_and(img, img, mask=mask)
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%205.png)
+> ![Untitled 5](https://user-images.githubusercontent.com/69300448/221179752-1a2d651a-41d6-4fcb-8fe2-790254822fce.png)
 > 
 
 ### 4.4.5 이미지 합성과 마스킹
@@ -464,7 +464,7 @@ masked = cv2.bitwise_and(img, img, mask=mask)
 >     plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%206.png)
+> ![Untitled 6](https://user-images.githubusercontent.com/69300448/221179795-1a96aafd-c656-4dee-bc81-383dab657ee8.png)
 > 
 
 색상에 따라 영역을 떼어내야 하는 경우도 있을 수 있다. 이때는 색을 가지고 마스크를 만들어야 하는데, HSV로 변환하면 원하는 색상 범위의 것만 골라 낼 수 있다.
@@ -530,9 +530,9 @@ OpenCV에서는 특정 범위에 속하는지 여부에 대한 함수를 제공�
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%207.png)
+> ![Untitled 7](https://user-images.githubusercontent.com/69300448/221179844-0ec18f48-074d-49d6-a157-bb249794fd11.png)
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%208.png)
+> ![Untitled 8](https://user-images.githubusercontent.com/69300448/221179880-75263558-06f0-407f-9a26-17ec978de2eb.png)
 > 
 
 **cv2.inRange()** 함수를 호출해서 각 색상 범위별 마스크를 만든다. 함수의 반환 결과는 바이너리 스케일이 되어 **cv2.bitwise_and()** 함수의 mask로 사용하기 적합하다.
@@ -602,7 +602,7 @@ OpenCV에서는 특정 범위에 속하는지 여부에 대한 함수를 제공�
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%209.png)
+> ![Untitled 9](https://user-images.githubusercontent.com/69300448/221179937-87b2af3b-75e9-43fd-bd5a-a573e482507b.png)
 > 
 
 이미지 합성에는 대부분 알파 블렌딩 또는 마스킹이 필요하다. 하지만 이런 작업들은 적절한 알파 값 선택과 마스킹을 위한 좌표나 색상값 선택에 많은 노력과 시간이 필요하다. OpenCV는 3 버전에서 새로운 함수를 추가했는데, 알아서 두 영상의 특징을 살려 합성하는 기능이다.
@@ -657,7 +657,7 @@ OpenCV에서는 특정 범위에 속하는지 여부에 대한 함수를 제공�
 > plt.show()
 > ```
 > 
-> ![Untitled](4%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%209907330929fa4113845041a432186fa7/Untitled%2010.png)
+> ![Untitled 10](https://user-images.githubusercontent.com/69300448/221179989-23a3a8cf-2b20-41cb-a7e8-4be1f0b0c79f.png)
 > 
 
 위 예제에서는 img1의 전체 영역을 255로 채워서 해당 영역 전부가 합성의 대상임을 표시했지만, 가급적이면 합성하려는 영역을 제외하고 0으로 채우는 것이 더 좋은 결과를 보여준다.
