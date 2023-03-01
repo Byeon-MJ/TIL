@@ -43,6 +43,7 @@
 * [[OpenCV] 컬러 스페이스](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%BB%AC%EB%9F%AC%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 * [[OpenCV] 스레시 홀딩](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%8A%A4%EB%A0%88%EC%8B%9C%20%ED%99%80%EB%94%A9.md)
 * [[OpenCV] 이미지 연산](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%97%B0%EC%82%B0.md)
+* [[OpenCV] 히스토그램](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
