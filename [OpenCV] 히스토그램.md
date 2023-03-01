@@ -45,7 +45,7 @@ OpenCV에서는 히스토그램을 계산하는 **cv2.calcHist()** 함수를 제
 > 		hist.sum() : 270000.0 , img.shape : (450, 600)
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/222169427-2ae97a0b-59d6-4599-a111-430e5a184bb7.png)
 > 
 
 > **[예제 4-26] 컬러 히스토그램(4.26_histo_rgb.ipynb)**
@@ -74,7 +74,7 @@ OpenCV에서는 히스토그램을 계산하는 **cv2.calcHist()** 함수를 제
 > plt.show()
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/222169525-d1c7e850-89f8-48d5-b435-111b4b5e94b0.png)
 > 
 
 히스토그램을 보면 파란 하늘이 가장 넓은 영역을 차지하고 있으므로 파란색 분포가 크고 초록 나무와 단풍 때문에 초록색과 빨간색의 분포가 그 뒤를 따르는 것으로 보인다.
@@ -150,7 +150,7 @@ OpenCV는 노멀라이즈 기능을 함수로 제공한다.
 > plt.show()
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/222169609-b3e1f349-1353-46de-ad0a-8fe4b8639cbe.png)
 > 
 
 구간 노멀라이즈가 아니라 서로 다른 히스토그램의 빈도를 같은 조건으로 비교하는 경우에는 전체의 비율로 노멀라이즈 해야한다.
@@ -235,7 +235,7 @@ $$
 > plt.show()
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/222169668-3ca349a6-ef4f-4788-af08-a2bfd1415da9.png)
 > 
 
 코드의 길이는 다르지만 직접 연산과 OpenCV를 이용한 이퀄라이즈를 적용한 이미지의 밝기가 개선된 것을 알 수 있다. 
@@ -279,7 +279,7 @@ $$
 > plt.show()
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/222169737-efaa5c25-9bd2-4b08-ba5e-1ff04ca3fc62.png)
 > 
 
 YUV뿐만 아니라 HSV의 세 번째 채널에 대해서 이퀄라이즈를 적용해도 비슷한 결과를 얻을 수 있다.
@@ -292,7 +292,7 @@ img_hsv[:, :, 2] = cv2.equalizeHist(img_hsv[:, :, 2])
 
 **CLAHE(Contrast Limiting Adaptive Histogram Equalization)**는 영상 전체에 이퀄라이즈를 적용했을 때 너무 밝은 부분이 날아가는 현상을 막기 위해 영상을 일정한 영역으로 나눠서 이퀄라이즈를 적용하는 것을 말한다. 노이즈가 증폭되는 것을 막기 위해 어느 히스토그램 계급(bin)이든 지정된 제한 값을 넘으면 그 픽셀은 다른 계급으로 배분하고 나서 이퀄라이즈를 적용한다.
 
-![CLAHE 알고리즘([https://en.wikipedia.org/wiki/Adaptive_histogram_equalization#CLAHE](https://en.wikipedia.org/wiki/Adaptive_histogram_equalization#CLAHE))](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%205.png)
+![CLAHE 알고리즘([https://en.wikipedia.org/wiki/Adaptive_histogram_equalization#CLAHE](https://en.wikipedia.org/wiki/Adaptive_histogram_equalization#CLAHE))](https://user-images.githubusercontent.com/69300448/222170030-0f9adcf9-a717-4b7a-a78e-090546160ef7.png)
 
 CLAHE 알고리즘([https://en.wikipedia.org/wiki/Adaptive_histogram_equalization#CLAHE](https://en.wikipedia.org/wiki/Adaptive_histogram_equalization#CLAHE))
 
@@ -340,8 +340,8 @@ CLAHE 알고리즘([https://en.wikipedia.org/wiki/Adaptive_histogram_equalizatio
 > plt.show()
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%206.png)
-> 
+> ![Untitled 6](https://user-images.githubusercontent.com/69300448/222170439-dbf68708-aaec-487a-b83a-5fde4de8264f.png)
+
 
 ### 4.5.5 2D 히스토그램
 
@@ -388,9 +388,9 @@ CLAHE 알고리즘([https://en.wikipedia.org/wiki/Adaptive_histogram_equalizatio
 > plt.show()
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%207.png)
+> ![Untitled 7](https://user-images.githubusercontent.com/69300448/222170509-ff81bb36-fe70-4b08-889f-f30c0f7bb82c.png)
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%208.png)
+> ![Untitled 8](https://user-images.githubusercontent.com/69300448/222170583-60e1c89b-a806-41e1-9cf0-a444d6dd6396.png)
 > 
 
 2차원 히스토그램의 의미는 x축이면서 y축인 픽셀의 분포를 알 수 있다는 것이다. 논리 연산의 AND 연산과 같다.
@@ -461,7 +461,7 @@ CLAHE 알고리즘([https://en.wikipedia.org/wiki/Adaptive_histogram_equalizatio
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%209.png)
+> ![Untitled 9](https://user-images.githubusercontent.com/69300448/222170683-cb34ee49-c10a-41d8-ae46-a6caca66b111.png)
 > 
 
 **backProject_manual** 함수에 전달된 관심영역의 히스토그램을 전체 영상의 히스토그램으로 나누어 비율을 구한다. 비율을 구한다는 것은 관심영역과 비슷한 색상 분포를 갖는 히스토그램은 1에 가까운 값을 갖고 그 반대는 0 또는 0에 가까운 값을 갖게 되는 것으로 마스킹에 사용하기 좋다. 구한 비율은 원래 영상의 H와 S 픽셀 값에 매핑한다.
@@ -559,7 +559,7 @@ OpenCV에서는 함수로 이와 같은 기능을 제공한다.
 > 		BHATTACHARYYA 	img1:   0.00	img2:   0.48	img3:   0.47	img4:   0.79
 > ```
 > 
-> ![Untitled](4%205%20%E1%84%92%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2004d2fd35f1744dda99709ca24c228252/Untitled%2010.png)
+> ![Untitled 10](https://user-images.githubusercontent.com/69300448/222170744-24fa760f-de78-4f64-80c6-9182ef508e28.png)
 > 
 
 img1과의 비교 결과는 모두 완전한 일치를 보여주고 있으며, img4의 경우 가장 멀어진 값으로 나타나는 것을 확인할 수 있다.
