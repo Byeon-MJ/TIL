@@ -47,6 +47,7 @@
 * [[OpenCV] 이동, 확대, 축소, 회전](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%8F%99%2C%20%ED%99%95%EB%8C%80%2C%20%EC%B6%95%EC%86%8C%2C%20%ED%9A%8C%EC%A0%84.md)
 * [[OpenCV] 뒤틀기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%92%A4%ED%8B%80%EA%B8%B0.md)
 * [[OpenCV] 렌즈 왜곡](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%A0%8C%EC%A6%88%20%EC%99%9C%EA%B3%A1.md)
+* [[OpenCV] 컨볼루션과 블러링](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%BB%A8%EB%B3%BC%EB%A3%A8%EC%85%98%EA%B3%BC%20%EB%B8%94%EB%9F%AC%EB%A7%81.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
