@@ -46,7 +46,7 @@ $$
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%202%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF%20080775fec4434d7c8bcfdf01b30638d4/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/224932413-6befd619-dbb1-4d07-8c71-153fafdc86c7.png)
 > 
 
 미분으로 얻은 엣지 정보는 각각 x축과 y축에 대한 값의 변화를 나타내는 것이고 이것을 **기울기, 그래디언트(gradient)**라고 한다.
@@ -104,7 +104,7 @@ $$
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%202%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF%20080775fec4434d7c8bcfdf01b30638d4/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/224932483-1146ea84-a6fe-440c-a1d9-ef9d079e021d.png)
 > 
 
 ### 6.2.3 프리윗 필터
@@ -152,7 +152,7 @@ $$
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%202%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF%20080775fec4434d7c8bcfdf01b30638d4/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/224932530-aab14831-d1e8-46f7-85fd-ef2653bf58ac.png)
 > 
 
 ### 6.2.4 소벨 필터
@@ -218,7 +218,7 @@ $$
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%202%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF%20080775fec4434d7c8bcfdf01b30638d4/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/224932636-0b569345-c37d-4e03-bca8-e9cd9112c686.png)
 > 
 
 ### 6.2.5 샤르 필터
@@ -272,7 +272,7 @@ $$
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%202%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF%20080775fec4434d7c8bcfdf01b30638d4/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/224932693-449e6115-29be-461e-99d8-8d0d13aad54d.png)
 > 
 
 ### 6.2.6 라플라시안 필터
@@ -319,7 +319,7 @@ $$
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%202%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF%20080775fec4434d7c8bcfdf01b30638d4/Untitled%205.png)
+> ![Untitled 5](https://user-images.githubusercontent.com/69300448/224932757-56e890fc-4153-43e4-8010-6a47f98fc53f.png)
 > 
 
 라플라시안 필터는 노이즈에 민감하므로 사전에 가우시안 필터로 노이즈를 제거하고 사용하는 것이 좋다.
@@ -363,7 +363,7 @@ OpenCV는 이 알고리즘을 구현한 함수를 제공한다.
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%202%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF%20080775fec4434d7c8bcfdf01b30638d4/Untitled%206.png)
+> ![Untitled 6](https://user-images.githubusercontent.com/69300448/224932797-5f23b12b-1665-402f-b981-e3d34c565c32.png)
 > 
 
 캐니 엣지는 경계 검출 결과가 뛰어나고 스레시홀드 값의 지정에 따라 경계 검출 대상을 조정할 수 있어서 가장 많이 사용되는 함수이다.
