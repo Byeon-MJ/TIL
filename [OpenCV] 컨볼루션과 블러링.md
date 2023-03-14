@@ -10,7 +10,7 @@
 
 n x n 크기 커널의 각 요소와 대응하는 입력 픽셀값을 곱해서 모두 합한 것을 결과 픽셀값으로 결정하고, 이것을 마지막 픽셀까지 반복하는 것을 **컨볼루션 연산**이라고 한다.
 
-![출처: [https://www.slipp.net/wiki/pages/viewpage.action?pageId=26641520](https://www.slipp.net/wiki/pages/viewpage.action?pageId=26641520)](6%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC%204dafd62d852647b9ab120e9c04f8b006/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/224931730-74d2b636-dde8-48d0-8058-349364990cc5.png)
 
 출처: [https://www.slipp.net/wiki/pages/viewpage.action?pageId=26641520](https://www.slipp.net/wiki/pages/viewpage.action?pageId=26641520)
 
@@ -71,7 +71,7 @@ $$
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC%204dafd62d852647b9ab120e9c04f8b006/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/224931945-1ebf3b94-149c-4b33-9790-474fba19633a.png)
 > 
 
 OpenCV는 커널을 생성하지 않고도 평균 블러를 할 수 있는 함수를 더 제공한다.
@@ -113,7 +113,7 @@ OpenCV는 커널을 생성하지 않고도 평균 블러를 할 수 있는 함�
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC%204dafd62d852647b9ab120e9c04f8b006/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/224932018-20370574-0ffa-4090-b2e9-cee9cb22889e.png)
 > 
 
 ### 6.1.3 가우시안 블러링
@@ -185,7 +185,7 @@ OpenCV는 가우시안 분포 커널로 블러링을 적용하는 함수를 제�
 > 				 [0.0625 0.125  0.0625]]
 > ```
 > 
-> ![Untitled](6%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC%204dafd62d852647b9ab120e9c04f8b006/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/224932096-a9dc00fc-4dbe-42b1-b305-7c71a70a7b7e.png)
 > 
 
 ### 6.1.4 미디언 블러링
@@ -215,7 +215,7 @@ OpenCV는 가우시안 분포 커널로 블러링을 적용하는 함수를 제�
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC%204dafd62d852647b9ab120e9c04f8b006/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/224932156-4b214414-37a1-412a-a14c-494d37e12d93.png)
 > 
 
 ### 6.1.5 바이레터럴 필터
@@ -250,7 +250,7 @@ OpenCV는 가우시안 분포 커널로 블러링을 적용하는 함수를 제�
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC%204dafd62d852647b9ab120e9c04f8b006/Untitled%205.png)
+> ![Untitled 5](https://user-images.githubusercontent.com/69300448/224932200-6da3de84-7fbc-4880-be1a-c0e0a0fb0b00.png)
 > 
 
 cv2.bilateralFilter() 함수에 시그마값을 150이상 지정하면 스케치 효과를 얻을 수 있다.
