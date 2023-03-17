@@ -51,7 +51,7 @@ OpenCV는 구조화 요소 커널 생성을 위한 함수로 **cv2.getStructurin
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%203%20%E1%84%86%E1%85%A9%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8C%E1%85%B5%20bd24fa13998c4612bc331ad2bafa6a01/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/225782721-c126254b-ef67-4cc3-8d30-9c58073e763a.png)
 > 
 
 결과를 보면 글씨가 전반적으로 홀쭉해지긴 했지만 작은 흰 점들로 구성된 노이즈가 사라진 것을 알 수 있다.
@@ -85,7 +85,7 @@ OpenCV는 구조화 요소 커널 생성을 위한 함수로 **cv2.getStructurin
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%203%20%E1%84%86%E1%85%A9%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8C%E1%85%B5%20bd24fa13998c4612bc331ad2bafa6a01/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/225782739-5f2f7434-ebdc-4d44-9ce9-7e79645463dc.png)
 > 
 
 글씨가 조금 뚱뚱해지긴 했지만, 글씨 안의 점 노이즈가 사라졌다.
@@ -169,7 +169,7 @@ OpenCV는 열림과 닫힘 연산 등의 모폴로지 연산을 위해 함수를
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%203%20%E1%84%86%E1%85%A9%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8C%E1%85%B5%20bd24fa13998c4612bc331ad2bafa6a01/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/225782758-8ad88f37-f9b5-4818-b859-fabf5871806c.png)
 > 
 
 팽창, 침식과 달리 원본 영상이 뚱뚱해지거나 홀쭉해지지 않고 원래의 크기를 그대로 유지한 채 노이즈를 제거한다.
@@ -196,7 +196,7 @@ OpenCV는 열림과 닫힘 연산 등의 모폴로지 연산을 위해 함수를
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%203%20%E1%84%86%E1%85%A9%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8C%E1%85%B5%20bd24fa13998c4612bc331ad2bafa6a01/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/225782778-b1cdafde-5e39-46b9-835a-f335cbb3a4ca.png)
 > 
 
 > **[예제 6-17] 모폴로지 탑햇, 블랙햇 연산(6.17_morph_hat.ipynb)**
@@ -224,5 +224,5 @@ OpenCV는 열림과 닫힘 연산 등의 모폴로지 연산을 위해 함수를
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%203%20%E1%84%86%E1%85%A9%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8C%E1%85%B5%20bd24fa13998c4612bc331ad2bafa6a01/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/225782785-018cea1e-950d-4673-82ea-f6ed9731208f.png)
 >
