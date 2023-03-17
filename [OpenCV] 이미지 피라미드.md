@@ -41,7 +41,7 @@
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%91%E1%85%B5%E1%84%85%E1%85%A1%E1%84%86%E1%85%B5%E1%84%83%E1%85%B3%2060b6eb98dd4c4f16aa006ee6e3fe9512/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/225783727-1125504a-9ca9-4b00-9682-07c06be29d1f.png)
 > 
 
 ### 6.4.2 라플라시안 피라미드
@@ -78,7 +78,7 @@ cv2.pyUp() 함수는 4배로 확대할 때 없던 행과 열을 생성해서 가
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](6%204%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%91%E1%85%B5%E1%84%85%E1%85%A1%E1%84%86%E1%85%B5%E1%84%83%E1%85%B3%2060b6eb98dd4c4f16aa006ee6e3fe9512/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/225783756-2cf8408e-2561-413d-ada6-27cbda7dfdcc.png)
 > 
 
 라플라시안 피라미드는 영상의 복원 목적 뿐만 아니라 경계 검출에도 활용할 수 있다.
