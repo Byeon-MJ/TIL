@@ -78,7 +78,7 @@ cv2.findContours() 함수의 반환값은 OpenCV의 버전에 따라 달라서 �
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A5%20528d3401f7704646864bd357d6d55dac/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/226506353-a6cb3887-234c-4636-a0e0-402a8db5ac57.png)
 > 
 
 > **[예제 7-2] 컨투어 계층 트리(7.2_cntr_hierarchy.ipynb)**
@@ -138,7 +138,7 @@ cv2.findContours() 함수의 반환값은 OpenCV의 버전에 따라 달라서 �
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A5%20528d3401f7704646864bd357d6d55dac/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/226506397-a4b66fdf-948d-4406-a6f8-2646b9a63dcf.png)
 > 
 
 ### 7.1.1 이미지 모멘트와 컨투어 속성
@@ -243,7 +243,7 @@ OpenCV는 넓이와 둘레 길이 정보를 얻는 함수도 제공한다.
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A5%20528d3401f7704646864bd357d6d55dac/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/226506440-f81a64b6-fea5-45de-9e9d-4cf3f38e3ce5.png)
 > 
 
 OpenCV는 컨투어를 이용해서 해당 영역을 감싸는 여러 가지 도형 좌표를 계산하는 함수를 제공한다.
@@ -331,7 +331,7 @@ OpenCV는 컨투어를 이용해서 해당 영역을 감싸는 여러 가지 도
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A5%20528d3401f7704646864bd357d6d55dac/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/226506481-052f7f65-6d4d-4675-b7c3-5b0e1c7e17dc.png)
 > 
 
 ### 7.1.2 컨투어 단순화
@@ -381,7 +381,7 @@ OpenCV는 오차범위 내 근사값으로 컨투어를 계산해주는 함수�
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A5%20528d3401f7704646864bd357d6d55dac/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/226506505-015800af-d875-493f-9acf-882faf027aca.png)
 > 
 
 컨투어를 단순화하는 다른 방법은 **볼록 선체(convex hull)**를 만드는 것이다. 볼록 선체는 어느 한 부분도 오목하지 않은 상태를 말하는 것으로 대상 객체를 완전히 포함하므로 객체의 외곽 영역을 찾는 데 좋다.
@@ -462,7 +462,7 @@ OpenCV는 오차범위 내 근사값으로 컨투어를 계산해주는 함수�
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A5%20528d3401f7704646864bd357d6d55dac/Untitled%205.png)
+> ![Untitled 5](https://user-images.githubusercontent.com/69300448/226506548-5fc19a7b-e737-47a0-bbfb-3a80e5ca28bc.png)
 > 
 
 ### 7.1.3 컨투어와 도형 매칭
@@ -525,5 +525,5 @@ OpenCV에서 제공하는 함수를 이용하면 간단히 할 수 있다.
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%201%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%AE%E1%84%8B%E1%85%A5%20528d3401f7704646864bd357d6d55dac/Untitled%206.png)
+> ![Untitled 6](https://user-images.githubusercontent.com/69300448/226506583-7f05eb5f-f8cc-484e-b1f0-238a7a5d655a.png)
 >
