@@ -59,10 +59,6 @@
         - [x 좌표, y 좌표, 폭, 높이, 넓이]
     - centroids : 각 레이블의 중심점 좌표, N x 2 행렬(N : 레이블 개수)
 
-레이블이 같은 영역에 랜덤한 색상 적용
-
-Apply random colors to areas with the same label
-
 > **[예제 7-12] 연결된 영역 레이블링(7.12_connected_label.ipynb)**
 > 
 > 
