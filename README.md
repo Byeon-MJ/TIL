@@ -52,7 +52,7 @@
 * [[OpenCV] 모폴로지](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%AA%A8%ED%8F%B4%EB%A1%9C%EC%A7%80.md)
 * [[OpenCV] 이미지 피라미드](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C.md)
 * [[OpenCV] 컨투어](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%BB%A8%ED%88%AC%EC%96%B4.md)
-* [[OpenCV] 허프 변환]()
+* [[OpenCV] 허프 변환](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%ED%97%88%ED%94%84%20%EB%B3%80%ED%99%98.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
