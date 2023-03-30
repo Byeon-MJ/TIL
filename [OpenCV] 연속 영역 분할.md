@@ -40,8 +40,7 @@
 > cv2.waitKey(0)
 > cv2.destroyAllWindows()
 > ```
-> 
-> ![Untitled](7%203%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%20b863102cd15f40e49400e808b9540377/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/228851606-a2ecb2e0-ae7d-438b-bec8-2d3339910603.png)
 > 
 
 ### 7.3.2 연결 요소 레이블링
@@ -89,8 +88,7 @@
 > cv2.waitKey()
 > cv2.destroyAllWindows()
 > ```
-> 
-> ![Untitled](7%203%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%20b863102cd15f40e49400e808b9540377/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/228851674-9b402256-985f-497f-a884-d34983741fec.png)
 > 
 
 ### 7.3.3 색 채우기
@@ -163,7 +161,7 @@ flags = 8 | cv2.FLOODFILL_MASK_ONLY | cv2.FLOODFILL_FIXED_RANGE | (255 << 8)
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%203%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%20b863102cd15f40e49400e808b9540377/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/228851729-9be5a7a1-8fe1-419e-a959-28ddbc6ee0f0.png)
 > 
 
 ### 7.3.4 워터셰드
@@ -232,8 +230,7 @@ markers의 값은 경계를 찾고자 하는 픽셀 영역은 0을 갖게 하고
 > cv2.waitKey()
 > cv2.destroyAllWindows()
 > ```
-> 
-> ![Untitled](7%203%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%20b863102cd15f40e49400e808b9540377/Untitled%203.png)
+> ![Untitled 3](https://user-images.githubusercontent.com/69300448/228851777-7957bc10-c92a-434b-a910-f4451f0ab564.png)
 > 
 
 워터셰드는 경계 검출이 어려운 경우 배경으로 확신할 수 있는 픽셀과 전경으로 확신할 수 있는 픽셀로 경계를 찾을 수 있다.
@@ -325,8 +322,7 @@ markers의 값은 경계를 찾고자 하는 픽셀 영역은 0을 갖게 하고
 >         break
 > cv2.destroyAllWindows()
 > ```
-> 
-> ![Untitled](7%203%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%20b863102cd15f40e49400e808b9540377/Untitled%204.png)
+> ![Untitled 4](https://user-images.githubusercontent.com/69300448/228851831-d6d1cc0d-bc25-44de-b6f2-2b246ef988bf.png)
 > 
 
 ### 7.3.6 평균 이동 필터
@@ -380,6 +376,5 @@ OpenCV에서는 함수로 이 기능을 제공한다. 이 함수는 내부적으
 > cv2.waitKey()
 > cv2.destroyAllWindows()
 > ```
-> 
-> ![Untitled](7%203%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%20b863102cd15f40e49400e808b9540377/Untitled%205.png)
+> ![Untitled 5](https://user-images.githubusercontent.com/69300448/228851869-c15d529f-4e9e-45e4-8956-33ed9dba5997.png)
 >
