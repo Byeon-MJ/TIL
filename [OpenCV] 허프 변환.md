@@ -61,7 +61,7 @@ OpenCV는 이 선을 찾아주는 함수를 제공한다.
 > cv2.destroyAllWindows()
 > ```
 > 
-> ![Untitled](7%202%20%E1%84%92%E1%85%A5%E1%84%91%E1%85%B3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%2004a5c0f269914fa4bc5804c319a8f2a9/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/228851265-10d7d8a9-a666-42e7-ae63-793b8d0c0617.png)
 > 
 
 ### 7.2.2 확률적 허프 선 변환
@@ -105,8 +105,7 @@ OpenCV는 다음과 같은 함수를 제공한다.
 > cv2.waitKey()
 > cv2.destroyAllWindows()
 > ```
-> 
-> ![Untitled](7%202%20%E1%84%92%E1%85%A5%E1%84%91%E1%85%B3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%2004a5c0f269914fa4bc5804c319a8f2a9/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/228851321-1cd8f33a-8471-4c78-a5c7-cd0c662ae485.png)
 > 
 
 ### 7.2.3 허프 원 변환
@@ -160,8 +159,7 @@ OpenCV는 메모리와 연산 속도를 이유로 이 방법보다는 캐니 엣
 > cv2.waitKey()
 > cv2.destroyAllWindows()
 > ```
-> 
-> ![Untitled](7%202%20%E1%84%92%E1%85%A5%E1%84%91%E1%85%B3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%2004a5c0f269914fa4bc5804c319a8f2a9/Untitled%202.png)
+> ![Untitled 2](https://user-images.githubusercontent.com/69300448/228851406-a292ec7d-7439-4306-971f-72fb07b342f9.png)
 > 
 
 동전 사진에서 원을 검출해보았다. 이 함수는 내부적으로 캐니 엣지를 사용하기때문에 노이즈 제거를 위해서 가우시안 블러를 처리해주었다. 캐니 엣지에서 사용할 최대 스레시홀드 값은 200으로 전달했다. dp는 원본 영상과 경사도 누적도의 해상도를 조정하는데, 1로 하면 해상도가 동일하므로 가장 정확하고, 값이 커질수록 부정확한 원을 검출할 수 있다. 1부터 시작해서 조금씩 늘려서 찾아야 한다. minDist 값은 중심점 간의 최소 거리를 의미하는 것으로 0이 들어갈 수는 없다.
