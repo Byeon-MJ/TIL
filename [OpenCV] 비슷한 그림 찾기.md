@@ -62,7 +62,7 @@
 > plt.show()
 > ```
 > 
-> ![Untitled](8%201%20%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%86%BA%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%20%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%80%E1%85%B5%203f28ec1298e148e88674051cdacb3e77/Untitled.png)
+> ![Untitled](https://user-images.githubusercontent.com/69300448/229826308-5d579b0b-bf11-49dd-bfdb-6b2d27794719.png)
 > 
 
 위 방법으로 얻은 평균 해시를 다른 영상과 비교해서 얼마나 비슷한지 알아내야 한다.
@@ -164,7 +164,7 @@
 > plt.show()
 > ```
 > 
-> ![Untitled](8%201%20%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%E1%86%BA%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%20%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%80%E1%85%B5%203f28ec1298e148e88674051cdacb3e77/Untitled%201.png)
+> ![Untitled 1](https://user-images.githubusercontent.com/69300448/229826351-59184fab-a265-4ea4-bb7e-aaa8bd2d2a8e.png)
 > 
 
 찾고자 하는 영상의 특징을 평균 해시라는 숫자 하나로 변환을 했다. 이와 같은 과정을 **특징 검출** 이라고 한다.
