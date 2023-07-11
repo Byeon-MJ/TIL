@@ -13,7 +13,7 @@ Java 8과 Java17을 설치하고 script 작성을 통해 두 개를 전환해가
 - 우선 원하는 Java version을 설치해야 한다.
 - 앞서 언급한 것처럼 Java 8과 17을 설치한다. 그리고 두 JDK의 경로는 한 폴더로 한다.
 
-![Untitled](%5BJava%5D%20JDK%20version%20%E1%84%8B%E1%85%A7%E1%84%85%E1%85%A5%E1%84%80%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20b948af8eec844e63bd0d477993f979ef/Untitled.png)
+![Untitled](https://github.com/Byeon-MJ/TIL/assets/69300448/5c6ff9ba-bc2a-4b03-8f6c-25141d69161a)
 
 # 2. scripts 폴더 생성 및 Java 버전 수에 맞는 .bat 파일 생성
 
@@ -44,9 +44,9 @@ java -version
 
 - 저장할 때에는 파일 형식을 ‘모든 파일’로 변경한 후 확장자 .bat를 입력해서 저장한다.
 
-![Untitled](%5BJava%5D%20JDK%20version%20%E1%84%8B%E1%85%A7%E1%84%85%E1%85%A5%E1%84%80%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20b948af8eec844e63bd0d477993f979ef/Untitled%201.png)
+![Untitled 1](https://github.com/Byeon-MJ/TIL/assets/69300448/de7dbfe5-751e-414b-b82b-2f168eac89a1)
 
-![Untitled](%5BJava%5D%20JDK%20version%20%E1%84%8B%E1%85%A7%E1%84%85%E1%85%A5%E1%84%80%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20b948af8eec844e63bd0d477993f979ef/Untitled%202.png)
+![Untitled 2](https://github.com/Byeon-MJ/TIL/assets/69300448/a8c06240-12b9-4561-b402-f0e6dd5dc7e4)
 
 # 3. 환경 변수 설정
 
@@ -55,22 +55,21 @@ java -version
     원하는 JDK 버전의 경로를 넣는다.
     
     나는 JDK17의 경로를 기본 JAVA_HOME 변수로 설정했다.
-    
-    ![Untitled](%5BJava%5D%20JDK%20version%20%E1%84%8B%E1%85%A7%E1%84%85%E1%85%A5%E1%84%80%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20b948af8eec844e63bd0d477993f979ef/Untitled%203.png)
-    
+
+    ![Untitled 3](https://github.com/Byeon-MJ/TIL/assets/69300448/86c85301-5ea5-458f-9ca3-46218e068157)
 
 - Path 추가
     1. 새로 만들기(N)를 선택하고 %JAVA_HOME%\bin 을 추가한다.
     2. .bat 파일 사용을 위해 scripts 폴더의 경로도 Path에 추가한다
-    
-    ![Untitled](%5BJava%5D%20JDK%20version%20%E1%84%8B%E1%85%A7%E1%84%85%E1%85%A5%E1%84%80%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20b948af8eec844e63bd0d477993f979ef/Untitled%204.png)
-    
+
+    ![Untitled 4](https://github.com/Byeon-MJ/TIL/assets/69300448/75ab7928-a82f-487d-8e66-e68c4384b020)
 
 # 4. JDK 변경 확인
 
 - CMD 에서 .bat 파일명을 입력하면 Java version이 변경이 된다.
 
-![Untitled](%5BJava%5D%20JDK%20version%20%E1%84%8B%E1%85%A7%E1%84%85%E1%85%A5%E1%84%80%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20b948af8eec844e63bd0d477993f979ef/Untitled%205.png)
+![Untitled 5](https://github.com/Byeon-MJ/TIL/assets/69300448/adb6d70d-b196-4224-9639-0472431069b1)
+
 
 # Reference
 
