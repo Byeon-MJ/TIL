@@ -70,4 +70,4 @@
 * [[Dacon] SNP_Classification](https://github.com/Byeon-MJ/Dacon_Repo/tree/main/SNP_Classification)
 
 ## Java & Back-End
-* [[Java] JDK version 여러개 설치 및 전환]()
+* [[Java] JDK version 여러개 설치 및 전환](https://github.com/Byeon-MJ/TIL/blob/main/%5BJava%5D%20JDK%20version%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md)
