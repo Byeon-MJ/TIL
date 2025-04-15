@@ -58,13 +58,6 @@
 * [[OpenCV] 영상의 특징과 키 포인트](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%98%81%EC%83%81%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%ED%82%A4%20%ED%8F%AC%EC%9D%B8%ED%8A%B8.md)
 * [[OpenCV] 디스크립터 추출기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%94%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%84%B0%20%EC%B6%94%EC%B6%9C%EA%B8%B0.md)
 
-## Others
-* [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
-* [[Linux] 내가 보려고 정리한 Linux 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BLinux%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Linux%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
-* [[MySQL] 내가 보려고 정리한 MySQL 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BMySQL%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20MySQL%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
-* [[Conda] 내가 보려고 정리한 Anaconda 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BConda%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Anaconda%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
-* [[Colab] Webcam - Colab 연동하기](https://github.com/Byeon-MJ/TIL/blob/main/%5BColab%5D%20Webcam%20-%20Colab%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
-
 ## Reviews
 * [[Dacon] SNP_Classification](https://github.com/Byeon-MJ/Dacon_Repo/tree/main/SNP_Classification)
 
@@ -74,3 +67,10 @@
 ## Git
 * [[Git] 내가 보려고 정리한 Git 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md)
 * [[Git] Merge 정리 - 브랜치 병합](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%20%EC%A0%95%EB%A6%AC%20-%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EB%B3%91%ED%95%A9.md)
+
+## Others
+* [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
+* [[Linux] 내가 보려고 정리한 Linux 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BLinux%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Linux%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+* [[MySQL] 내가 보려고 정리한 MySQL 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BMySQL%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20MySQL%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+* [[Conda] 내가 보려고 정리한 Anaconda 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BConda%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Anaconda%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+* [[Colab] Webcam - Colab 연동하기](https://github.com/Byeon-MJ/TIL/blob/main/%5BColab%5D%20Webcam%20-%20Colab%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
