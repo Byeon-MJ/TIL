@@ -63,7 +63,7 @@
 * [[Linux] 내가 보려고 정리한 Linux 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BLinux%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Linux%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 * [[MySQL] 내가 보려고 정리한 MySQL 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BMySQL%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20MySQL%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 * [[Conda] 내가 보려고 정리한 Anaconda 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BConda%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Anaconda%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
-* [[Git] 내가 보려고 정리한 Git 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md)
+
 * [[Colab] Webcam - Colab 연동하기](https://github.com/Byeon-MJ/TIL/blob/main/%5BColab%5D%20Webcam%20-%20Colab%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
 
 ## Reviews
@@ -71,3 +71,8 @@
 
 ## Java & Back-End
 * [[Java] JDK version 여러개 설치 및 전환](https://github.com/Byeon-MJ/TIL/blob/main/%5BJava%5D%20JDK%20version%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md)
+
+## Git
+* [[Git] 내가 보려고 정리한 Git 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md)
+* [[Git] Merge 정리 - 브랜치 병합]()
+* 
