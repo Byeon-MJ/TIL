@@ -68,6 +68,7 @@
 * [[Git] 내가 보려고 정리한 Git 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md)
 * [[Git] Merge 정리 - 브랜치 병합](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%20%EC%A0%95%EB%A6%AC%20-%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EB%B3%91%ED%95%A9.md)
 * [[Git] Rebase 정리 - Merge보다 히스토리가 깔끔한 이유](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Rebase%20%EC%A0%95%EB%A6%AC%20-%20Merge%EB%B3%B4%EB%8B%A4%20%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%9D%B4%EC%9C%A0.md)
+* [[Git] Merge와 Rebase 비교](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%EC%99%80%20Rebase%20%EB%B9%84%EA%B5%90.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
