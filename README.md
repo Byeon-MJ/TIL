@@ -69,6 +69,7 @@
 * [[Git] Merge 정리 - 브랜치 병합](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%20%EC%A0%95%EB%A6%AC%20-%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EB%B3%91%ED%95%A9.md)
 * [[Git] Rebase 정리 - Merge보다 히스토리가 깔끔한 이유](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Rebase%20%EC%A0%95%EB%A6%AC%20-%20Merge%EB%B3%B4%EB%8B%A4%20%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%9D%B4%EC%9C%A0.md)
 * [[Git] Merge와 Rebase 비교](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%EC%99%80%20Rebase%20%EB%B9%84%EA%B5%90.md)
+* [[Git] Init 정리 - Git 저장소의 첫 시작, 어떻게 동작할까?](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Init%20%EC%A0%95%EB%A6%AC%20-%20Git%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91%2C%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C%3F.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
