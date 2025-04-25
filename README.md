@@ -71,6 +71,7 @@
 * [[Git] Merge와 Rebase 비교](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%EC%99%80%20Rebase%20%EB%B9%84%EA%B5%90.md)
 * [[Git] Init 정리 - Git 저장소의 첫 시작, 어떻게 동작할까?](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Init%20%EC%A0%95%EB%A6%AC%20-%20Git%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91%2C%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C%3F.md)
 * [[Git] Cherry-pick 정리 - 필요한 커밋만 쏙쏙 골라 담기](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Cherry-pick%20%EC%A0%95%EB%A6%AC%20-%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%BB%A4%EB%B0%8B%EB%A7%8C%20%EC%8F%99%EC%8F%99%20%EA%B3%A8%EB%9D%BC%20%EB%8B%B4%EA%B8%B0.md)
+* [[Git] Squash 정리 - 지저분한 커밋 정리하는 법](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Squash%20%EC%A0%95%EB%A6%AC%20-%20%EC%A7%80%EC%A0%80%EB%B6%84%ED%95%9C%20%EC%BB%A4%EB%B0%8B%20%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 
 ## Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
