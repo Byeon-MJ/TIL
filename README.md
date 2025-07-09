@@ -92,7 +92,7 @@
 
 * [관심영역(ROI)](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EA%B4%80%EC%8B%AC%EC%98%81%EC%97%AD(ROI).md)
 
-* [컬러 스페이스]()
+* [컬러 스페이스](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%BB%AC%EB%9F%AC%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 
 * [스레시 홀딩](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%8A%A4%EB%A0%88%EC%8B%9C%20%ED%99%80%EB%94%A9.md)
 
