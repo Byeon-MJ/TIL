@@ -1,4 +1,4 @@
-# [ML] KNN, Scaling
+# KNN, Scaling
 
 # K-최근접 이웃(KNN)
 
