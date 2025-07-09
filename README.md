@@ -54,71 +54,103 @@
 
 
 ## Kaggle
-* [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
+* [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/kaggle/Kaggle%20Dataset%20Download.md)
 
 
 ## Linux
-* [[Linux] 내가 보려고 정리한 Linux 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BLinux%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Linux%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+* [내가 보려고 정리한 Linux 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/linux/%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Linux%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 
 
 ## Machine Learning
-* [[ML] KNN, Scaling](https://github.com/Byeon-MJ/TIL/blob/8e50ffe926e339522b5c6e78fa85405558dfe1d4/%5BML%5D%20KNN,%20Scaling.md)
-* [[ML] Encoding : Label & One Hot](https://github.com/Byeon-MJ/TIL/blob/main/Encoding_Label_One_Hot.ipynb)
-* [[ML] Linear Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20Linear%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
-* [[ML] Logistic Regression](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20Logistic%20Regression.md)
+* [KNN, Scaling](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/KNN%2C%20Scaling.md)
+
+* [Encoding : Label & One Hot](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Encoding_Label_One_Hot.ipynb)
+
+* [Linear Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Linear%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
+
+* [Logistic Regression](github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Logistic%20Regression.md)
 
 
 ## MySQL
-* [[MySQL] 내가 보려고 정리한 MySQL 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BMySQL%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20MySQL%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+* [내가 보려고 정리한 MySQL 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/mysql/%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20MySQL%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 
 
 ## OpenCV
-* [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
-* [[OpenCV] putText in Image](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D_putText_in_Image.ipynb)
-* [[OpenCV] Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'.md](https://github.com/Byeon-MJ/TIL/blob/f05c15b70a6ff8b7405f5c57011b082e6eb64061/%5BError%5D%20:%20OpenCV(4.6.0)%20:%20-1%20:%20error:%20(-5:Bad%20argument)%20in%20function%20'add'.md)
-* [[OpenCV] 이미지와 비디오 입출력](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
-* [[OpenCV] 그림 그리기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EA%B7%B8%EB%A6%BC%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
-* [[OpenCV] 창 관리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%B0%BD%20%EA%B4%80%EB%A6%AC.md)
-* [[OpenCV] 이벤트 처리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
-* [[OpenCV] 관심영역(ROI)](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EA%B4%80%EC%8B%AC%EC%98%81%EC%97%AD(ROI).md)
-* [[OpenCV] 컬러 스페이스](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%BB%AC%EB%9F%AC%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
-* [[OpenCV] 스레시 홀딩](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%8A%A4%EB%A0%88%EC%8B%9C%20%ED%99%80%EB%94%A9.md)
-* [[OpenCV] 이미지 연산](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%97%B0%EC%82%B0.md)
-* [[OpenCV] 히스토그램](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)
-* [[OpenCV] 이동, 확대, 축소, 회전](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%8F%99%2C%20%ED%99%95%EB%8C%80%2C%20%EC%B6%95%EC%86%8C%2C%20%ED%9A%8C%EC%A0%84.md)
-* [[OpenCV] 뒤틀기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%92%A4%ED%8B%80%EA%B8%B0.md)
-* [[OpenCV] 렌즈 왜곡](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%A0%8C%EC%A6%88%20%EC%99%9C%EA%B3%A1.md)
-* [[OpenCV] 컨볼루션과 블러링](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%BB%A8%EB%B3%BC%EB%A3%A8%EC%85%98%EA%B3%BC%20%EB%B8%94%EB%9F%AC%EB%A7%81.md)
-* [[OpenCV] 경계 검출](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EA%B2%BD%EA%B3%84%20%EA%B2%80%EC%B6%9C.md)
-* [[OpenCV] 모폴로지](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%AA%A8%ED%8F%B4%EB%A1%9C%EC%A7%80.md)
-* [[OpenCV] 이미지 피라미드](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C.md)
-* [[OpenCV] 컨투어](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%BB%A8%ED%88%AC%EC%96%B4.md)
-* [[OpenCV] 허프 변환](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%ED%97%88%ED%94%84%20%EB%B3%80%ED%99%98.md)
-* [[OpenCV] 연속 영역 분할](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%97%B0%EC%86%8D%20%EC%98%81%EC%97%AD%20%EB%B6%84%ED%95%A0.md)
-* [[OpenCV] 비슷한 그림 찾기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%B9%84%EC%8A%B7%ED%95%9C%20%EA%B7%B8%EB%A6%BC%20%EC%B0%BE%EA%B8%B0.md)
-* [[OpenCV] 영상의 특징과 키 포인트](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%98%81%EC%83%81%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%ED%82%A4%20%ED%8F%AC%EC%9D%B8%ED%8A%B8.md)
-* [[OpenCV] 디스크립터 추출기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%94%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%84%B0%20%EC%B6%94%EC%B6%9C%EA%B8%B0.md)
+* [Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/opencv/Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
+
+* [Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'.md](https://github.com/Byeon-MJ/TIL/blob/main/opencv/OpenCV(4.6.0)%20%20-1%20%20error%20(Bad%20argument)%20in%20function%20'add'.md)
+
+* [putText in Image](https://github.com/Byeon-MJ/TIL/blob/main/opencv/putText_in_Image.ipynb)
+
+* [이미지와 비디오 입출력](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
+
+* [그림 그리기](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EA%B7%B8%EB%A6%BC%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
+
+* [창 관리](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%B0%BD%20%EA%B4%80%EB%A6%AC.md)
+
+* [이벤트 처리](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
+
+* [관심영역(ROI)](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EA%B4%80%EC%8B%AC%EC%98%81%EC%97%AD(ROI).md)
+
+* [컬러 스페이스]()
+
+* [스레시 홀딩](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%8A%A4%EB%A0%88%EC%8B%9C%20%ED%99%80%EB%94%A9.md)
+
+* [이미지 연산](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%97%B0%EC%82%B0.md)
+
+* [히스토그램](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.md)
+
+* [이동, 확대, 축소, 회전](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%9D%B4%EB%8F%99%2C%20%ED%99%95%EB%8C%80%2C%20%EC%B6%95%EC%86%8C%2C%20%ED%9A%8C%EC%A0%84.md)
+
+* [뒤틀기](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EB%92%A4%ED%8B%80%EA%B8%B0.md)
+
+* [렌즈 왜곡](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EB%A0%8C%EC%A6%88%20%EC%99%9C%EA%B3%A1.md)
+
+* [컨볼루션과 블러링](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%BB%A8%EB%B3%BC%EB%A3%A8%EC%85%98%EA%B3%BC%20%EB%B8%94%EB%9F%AC%EB%A7%81.md)
+
+* [경계 검출](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EA%B2%BD%EA%B3%84%20%EA%B2%80%EC%B6%9C.md)
+
+* [모폴로지](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EB%AA%A8%ED%8F%B4%EB%A1%9C%EC%A7%80.md)
+
+* [이미지 피라미드](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C.md)
+
+* [컨투어](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%BB%A8%ED%88%AC%EC%96%B4.md)
+
+* [허프 변환](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%ED%97%88%ED%94%84%20%EB%B3%80%ED%99%98.md)
+
+* [연속 영역 분할](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%97%B0%EC%86%8D%20%EC%98%81%EC%97%AD%20%EB%B6%84%ED%95%A0.md)
+
+* [비슷한 그림 찾기](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EB%B9%84%EC%8A%B7%ED%95%9C%20%EA%B7%B8%EB%A6%BC%20%EC%B0%BE%EA%B8%B0.md)
+
+* [영상의 특징과 키 포인트](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EC%98%81%EC%83%81%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%ED%82%A4%20%ED%8F%AC%EC%9D%B8%ED%8A%B8.md)
+
+* [디스크립터 추출기](https://github.com/Byeon-MJ/TIL/blob/main/opencv/%EB%94%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%84%B0%20%EC%B6%94%EC%B6%9C%EA%B8%B0.md)
 
 
 ## Python
-* [[Python] 내장 함수(map, filter, zip, enumerate)](https://github.com/Byeon-MJ/TIL/blob/main/map_filter_zip_enumerate.ipynb)
-* [[Python] List Delete Time Comparison](https://github.com/Byeon-MJ/TIL/blob/main/%5BPython%5D%20List_Delete_Time_Comparison.ipynb)
-* [Numpy Review 및 정리](https://github.com/Byeon-MJ/TIL/blob/main/Numpy_Note.ipynb)
+* [내장 함수(map, filter, zip, enumerate)]()
+
+* [List Delete Time Comparison]()
+
+* [Numpy Review 및 정리]()
 
 
 ## Pytorch
-* [[DL] PyTorch ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_ANN.ipynb)
-* [[DL] PyTorch DNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_DNN.ipynb)
-* [[DL] PyTorch CNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_CNN.ipynb)
+* [PyTorch ANN]()
+
+* [PyTorch DNN]()
+
+* [PyTorch CNN]()
 
 
 ## SpringBoot
-* [[SpringBoot] SpingBoot 프로젝트 - 패키지 구조에 대해서](https://github.com/Byeon-MJ/TIL/blob/main/%5BServer%5D%20SpingBoot%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
-* [[SpringBoot] SpringBoot에서 preferred-json-mapper 설정의 역할](https://github.com/Byeon-MJ/TIL/blob/main/%5BSpringBoot%5D%20SpringBoot%EC%97%90%EC%84%9C%20preferred-json-mapper%20%EC%84%A4%EC%A0%95%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
+* [SpingBoot 프로젝트 - 패키지 구조에 대해서]()
+
+* [SpringBoot에서 preferred-json-mapper 설정의 역할]()
 
 
 ## Tensorflow & Keras
-* [[DL] Get Start Keras, Simple ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Get_Start_Keras_Simple_ANN.ipynb)
+* [Get Start Keras, Simple ANN]()
 
 
 
