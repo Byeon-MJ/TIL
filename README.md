@@ -64,6 +64,7 @@
 ## Java & Back-End
 * [[Java] JDK version 여러개 설치 및 전환](https://github.com/Byeon-MJ/TIL/blob/main/%5BJava%5D%20JDK%20version%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md)
 * [[Server] SpingBoot 프로젝트 - 패키지 구조에 대해서](https://github.com/Byeon-MJ/TIL/blob/main/%5BServer%5D%20SpingBoot%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
+* [[SpringBoot] SpringBoot에서 preferred-json-mapper 설정의 역할](https://github.com/Byeon-MJ/TIL/blob/main/%5BSpringBoot%5D%20SpringBoot%EC%97%90%EC%84%9C%20preferred-json-mapper%20%EC%84%A4%EC%A0%95%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
 
 ## Git
 * [[Git] 내가 보려고 정리한 Git 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md)
