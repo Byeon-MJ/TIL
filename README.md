@@ -128,29 +128,33 @@
 
 
 ## Python
-* [내장 함수(map, filter, zip, enumerate)]()
+* [내장 함수(map, filter, zip, enumerate)](https://github.com/Byeon-MJ/TIL/blob/main/python/map_filter_zip_enumerate.ipynb)
 
-* [List Delete Time Comparison]()
+* [List Delete Time Comparison](https://github.com/Byeon-MJ/TIL/blob/main/python/List_Delete_Time_Comparison.ipynb)
 
-* [Numpy Review 및 정리]()
+* [Data Structure_Hash](https://github.com/Byeon-MJ/TIL/blob/main/python/Data%20Structure_Hash.md)
+
+* [삼항연산자(Ternary Operator](https://github.com/Byeon-MJ/TIL/blob/main/python/%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90(Ternary%20Operator).ipynb)
+
+* [Numpy Review 및 정리](https://github.com/Byeon-MJ/TIL/blob/main/python/Numpy_Note.ipynb)
 
 
 ## Pytorch
-* [PyTorch ANN]()
+* [PyTorch ANN](https://github.com/Byeon-MJ/TIL/blob/main/pytorch/PyTorch_ANN.ipynb)
 
-* [PyTorch DNN]()
+* [PyTorch DNN](https://github.com/Byeon-MJ/TIL/blob/main/pytorch/PyTorch_DNN.ipynb)
 
-* [PyTorch CNN]()
+* [PyTorch CNN](https://github.com/Byeon-MJ/TIL/blob/main/pytorch/PyTorch_CNN.ipynb)
 
 
 ## SpringBoot
-* [SpingBoot 프로젝트 - 패키지 구조에 대해서]()
+* [SpingBoot 프로젝트 - 패키지 구조에 대해서](https://github.com/Byeon-MJ/TIL/blob/main/springboot/SpingBoot%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 
-* [SpringBoot에서 preferred-json-mapper 설정의 역할]()
+* [SpringBoot에서 preferred-json-mapper 설정의 역할](https://github.com/Byeon-MJ/TIL/blob/main/springboot/SpringBoot%EC%97%90%EC%84%9C%20preferred-json-mapper%20%EC%84%A4%EC%A0%95%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
 
 
 ## Tensorflow & Keras
-* [Get Start Keras, Simple ANN]()
+* [Get Start Keras, Simple ANN](https://github.com/Byeon-MJ/TIL/blob/main/tensorflow%26keras/Get_Start_Keras_Simple_ANN.ipynb)
 
 
 
