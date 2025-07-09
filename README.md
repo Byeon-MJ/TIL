@@ -68,7 +68,7 @@
 
 * [Linear Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Linear%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
 
-* [Logistic Regression](github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Logistic%20Regression.md)
+* [Logistic Regression](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Logistic%20Regression.md)
 
 
 ## MySQL
