@@ -6,12 +6,11 @@
 * [TIL 노션 링크](https://byeon-mj.notion.site/TIL-3a1992815a4741ec835223ba7ebb8a06)
 
 ## Python
-* [내장 함수(map, filter, zip, enumerate)](https://github.com/Byeon-MJ/TIL/blob/main/map_filter_zip_enumerate.ipynb)
+* [[Python] 내장 함수(map, filter, zip, enumerate)](https://github.com/Byeon-MJ/TIL/blob/main/map_filter_zip_enumerate.ipynb)
 * [[Python] List Delete Time Comparison](https://github.com/Byeon-MJ/TIL/blob/main/%5BPython%5D%20List_Delete_Time_Comparison.ipynb)
 
 ## Python Library
 * [Numpy Review 및 정리](https://github.com/Byeon-MJ/TIL/blob/main/Numpy_Note.ipynb)
-
 
 ## Machine Learning
 * [[ML] KNN, Scaling](https://github.com/Byeon-MJ/TIL/blob/8e50ffe926e339522b5c6e78fa85405558dfe1d4/%5BML%5D%20KNN,%20Scaling.md)
@@ -20,21 +19,21 @@
 * [[ML] Logistic Regression](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20Logistic%20Regression.md)
 
 ## Deep Learning
-* [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
-* [[OpenCV] putText in Image](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D_putText_in_Image.ipynb)
-* [[OpenCV] Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'.md](https://github.com/Byeon-MJ/TIL/blob/f05c15b70a6ff8b7405f5c57011b082e6eb64061/%5BError%5D%20:%20OpenCV(4.6.0)%20:%20-1%20:%20error:%20(-5:Bad%20argument)%20in%20function%20'add'.md)
 * [[DL] Tensor, AutoGrad, Gradient Descent](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Tensor_AutoGrad_GradientDescent.ipynb)
 * [[DL] UNet Image Segmentation](https://github.com/Byeon-MJ/DL_Practice_Repo/blob/main/Unet_Image_Segmentation.ipynb)
 
-**[Tensorflow & Keras]**
+### Tensorflow & Keras
 * [[DL] Get Start Keras, Simple ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Get_Start_Keras_Simple_ANN.ipynb)
 
-**[PyTorch]**
+### PyTorch
 * [[DL] PyTorch ANN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_ANN.ipynb)
 * [[DL] PyTorch DNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_DNN.ipynb)
 * [[DL] PyTorch CNN](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D_PyTorch_CNN.ipynb)
 
-## OpenCV
+### OpenCV
+* [[OpenCV] Error : Can't parse 'center' Sequence item with index 0 has a wrong type](https://github.com/Byeon-MJ/TIL/blob/main/%5BError%5D%20Can't%20parse%20'center'%20Sequence%20item%20with%20index%200%20has%20a%20wrong%20type.md)
+* [[OpenCV] putText in Image](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D_putText_in_Image.ipynb)
+* [[OpenCV] Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'.md](https://github.com/Byeon-MJ/TIL/blob/f05c15b70a6ff8b7405f5c57011b082e6eb64061/%5BError%5D%20:%20OpenCV(4.6.0)%20:%20-1%20:%20error:%20(-5:Bad%20argument)%20in%20function%20'add'.md)
 * [[OpenCV] 이미지와 비디오 입출력](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
 * [[OpenCV] 그림 그리기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EA%B7%B8%EB%A6%BC%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
 * [[OpenCV] 창 관리](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%B0%BD%20%EA%B4%80%EB%A6%AC.md)
@@ -58,15 +57,16 @@
 * [[OpenCV] 영상의 특징과 키 포인트](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%98%81%EC%83%81%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%ED%82%A4%20%ED%8F%AC%EC%9D%B8%ED%8A%B8.md)
 * [[OpenCV] 디스크립터 추출기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%94%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%84%B0%20%EC%B6%94%EC%B6%9C%EA%B8%B0.md)
 
-## Reviews
-* [[Dacon] SNP_Classification](https://github.com/Byeon-MJ/Dacon_Repo/tree/main/SNP_Classification)
-
-## Java & Back-End
+## Back-End
+### Java
 * [[Java] JDK version 여러개 설치 및 전환](https://github.com/Byeon-MJ/TIL/blob/main/%5BJava%5D%20JDK%20version%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md)
-* [[Server] SpingBoot 프로젝트 - 패키지 구조에 대해서](https://github.com/Byeon-MJ/TIL/blob/main/%5BServer%5D%20SpingBoot%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
+
+### Spring Boot
+* [[SpringBoot] SpingBoot 프로젝트 - 패키지 구조에 대해서](https://github.com/Byeon-MJ/TIL/blob/main/%5BServer%5D%20SpingBoot%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 * [[SpringBoot] SpringBoot에서 preferred-json-mapper 설정의 역할](https://github.com/Byeon-MJ/TIL/blob/main/%5BSpringBoot%5D%20SpringBoot%EC%97%90%EC%84%9C%20preferred-json-mapper%20%EC%84%A4%EC%A0%95%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
 
-## Git
+## Util
+### Git
 * [[Git] 내가 보려고 정리한 Git 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md)
 * [[Git] Merge 정리 - 브랜치 병합](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%20%EC%A0%95%EB%A6%AC%20-%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EB%B3%91%ED%95%A9.md)
 * [[Git] Rebase 정리 - Merge보다 히스토리가 깔끔한 이유](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Rebase%20%EC%A0%95%EB%A6%AC%20-%20Merge%EB%B3%B4%EB%8B%A4%20%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%9D%B4%EC%9C%A0.md)
@@ -77,9 +77,12 @@
 * [[Git] 브랜치 전략: 효율적으로 협업하기](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%A0%84%EB%9E%B5%3A%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md)
 * [[Git] Remote Branch 관리 정리](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Remote%20Branch%20%EA%B4%80%EB%A6%AC%20%EC%A0%95%EB%A6%AC.md)
 
-## Others
+### Others
 * [Kaggle API Dataset Download](https://github.com/Byeon-MJ/TIL/blob/main/%5BOthers%5D%20Kaggle%20Dataset%20Download.md)
 * [[Linux] 내가 보려고 정리한 Linux 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BLinux%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Linux%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 * [[MySQL] 내가 보려고 정리한 MySQL 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BMySQL%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20MySQL%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 * [[Conda] 내가 보려고 정리한 Anaconda 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BConda%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Anaconda%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+
+### Reviews
+* [[Dacon] SNP_Classification](https://github.com/Byeon-MJ/Dacon_Repo/tree/main/SNP_Classification)
 * [[Colab] Webcam - Colab 연동하기](https://github.com/Byeon-MJ/TIL/blob/main/%5BColab%5D%20Webcam%20-%20Colab%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
