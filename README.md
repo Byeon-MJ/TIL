@@ -9,14 +9,16 @@
 * [[Python] 내장 함수(map, filter, zip, enumerate)](https://github.com/Byeon-MJ/TIL/blob/main/map_filter_zip_enumerate.ipynb)
 * [[Python] List Delete Time Comparison](https://github.com/Byeon-MJ/TIL/blob/main/%5BPython%5D%20List_Delete_Time_Comparison.ipynb)
 
-## Python Library
+### Python Library
 * [Numpy Review 및 정리](https://github.com/Byeon-MJ/TIL/blob/main/Numpy_Note.ipynb)
+
 
 ## Machine Learning
 * [[ML] KNN, Scaling](https://github.com/Byeon-MJ/TIL/blob/8e50ffe926e339522b5c6e78fa85405558dfe1d4/%5BML%5D%20KNN,%20Scaling.md)
 * [[ML] Encoding : Label & One Hot](https://github.com/Byeon-MJ/TIL/blob/main/Encoding_Label_One_Hot.ipynb)
 * [[ML] Linear Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20Linear%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
 * [[ML] Logistic Regression](https://github.com/Byeon-MJ/TIL/blob/main/%5BML%5D%20Logistic%20Regression.md)
+
 
 ## Deep Learning
 * [[DL] Tensor, AutoGrad, Gradient Descent](https://github.com/Byeon-MJ/TIL/blob/main/%5BDL%5D%20Tensor_AutoGrad_GradientDescent.ipynb)
@@ -57,6 +59,7 @@
 * [[OpenCV] 영상의 특징과 키 포인트](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EC%98%81%EC%83%81%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%ED%82%A4%20%ED%8F%AC%EC%9D%B8%ED%8A%B8.md)
 * [[OpenCV] 디스크립터 추출기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%94%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%84%B0%20%EC%B6%94%EC%B6%9C%EA%B8%B0.md)
 
+
 ## Back-End
 ### Java
 * [[Java] JDK version 여러개 설치 및 전환](https://github.com/Byeon-MJ/TIL/blob/main/%5BJava%5D%20JDK%20version%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md)
@@ -64,6 +67,7 @@
 ### Spring Boot
 * [[SpringBoot] SpingBoot 프로젝트 - 패키지 구조에 대해서](https://github.com/Byeon-MJ/TIL/blob/main/%5BServer%5D%20SpingBoot%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 * [[SpringBoot] SpringBoot에서 preferred-json-mapper 설정의 역할](https://github.com/Byeon-MJ/TIL/blob/main/%5BSpringBoot%5D%20SpringBoot%EC%97%90%EC%84%9C%20preferred-json-mapper%20%EC%84%A4%EC%A0%95%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
+
 
 ## Util
 ### Git
@@ -83,6 +87,7 @@
 * [[MySQL] 내가 보려고 정리한 MySQL 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BMySQL%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20MySQL%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 * [[Conda] 내가 보려고 정리한 Anaconda 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BConda%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Anaconda%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 
-### Reviews
+
+## Reviews
 * [[Dacon] SNP_Classification](https://github.com/Byeon-MJ/Dacon_Repo/tree/main/SNP_Classification)
 * [[Colab] Webcam - Colab 연동하기](https://github.com/Byeon-MJ/TIL/blob/main/%5BColab%5D%20Webcam%20-%20Colab%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
