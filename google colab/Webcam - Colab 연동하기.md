@@ -1,4 +1,4 @@
-# [Colab] Webcam - Colab 연동하기
+# Webcam - Colab 연동하기
 
 Webcam을 이용한 프로젝트를 진행할때, Colab에서 OpenCV의 VideoCapture(0)를 사용하지 못해서 매번 JupyterNotebook을 사용했었다.
 
