@@ -36,7 +36,7 @@
 
 * [Merge와 Rebase 비교](https://github.com/Byeon-MJ/TIL/blob/main/git/Merge%EC%99%80%20Rebase%20%EB%B9%84%EA%B5%90.md)
 
-* [Squash 정리 - 지저분한 커밋 정리하는 법](github.com/Byeon-MJ/TIL/blob/main/git/Squash%20정리%20-%20지저분한%20커밋%20정리하는%20법.md)
+* [Squash 정리 - 지저분한 커밋 정리하는 법](https://github.com/Byeon-MJ/TIL/blob/main/git/Squash%20%EC%A0%95%EB%A6%AC%20-%20%EC%A7%80%EC%A0%80%EB%B6%84%ED%95%9C%20%EC%BB%A4%EB%B0%8B%20%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 
 * [브랜치 전략: 효율적으로 협업하기](https://github.com/Byeon-MJ/TIL/blob/main/git/%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%A0%84%EB%9E%B5%20-%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md)
 
@@ -64,7 +64,7 @@
 ## Machine Learning
 * [KNN, Scaling](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/KNN%2C%20Scaling.md)
 
-* [Encoding : Label & One Hot](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Encoding_Label_One_Hot.ipynb)
+* [Encoding - Label & One Hot](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Encoding_Label_One_Hot.ipynb)
 
 * [Linear Regression(Linear, Polynomial, Multiple), Regularization](https://github.com/Byeon-MJ/TIL/blob/main/machine%20learning/Linear%20Regression(Linear%2C%20Polynomial%2C%20Multiple)%2C%20Regularization.md)
 
