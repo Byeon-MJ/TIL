@@ -1,4 +1,4 @@
-# [ML] Linear Regression(Linear, Polynomial, Multiple)
+# Linear Regression(Linear, Polynomial, Multiple)
 
 # 선형 회귀란?
 
