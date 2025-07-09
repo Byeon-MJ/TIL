@@ -134,7 +134,7 @@
 
 * [Data Structure_Hash](https://github.com/Byeon-MJ/TIL/blob/main/python/Data%20Structure_Hash.md)
 
-* [삼항연산자(Ternary Operator](https://github.com/Byeon-MJ/TIL/blob/main/python/%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90(Ternary%20Operator).ipynb)
+* [삼항연산자(Ternary Operator)](https://github.com/Byeon-MJ/TIL/blob/main/python/%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90(Ternary%20Operator).ipynb)
 
 * [Numpy Review 및 정리](https://github.com/Byeon-MJ/TIL/blob/main/python/Numpy_Note.ipynb)
 
