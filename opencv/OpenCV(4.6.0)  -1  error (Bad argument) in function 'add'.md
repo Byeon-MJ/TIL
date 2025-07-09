@@ -1,4 +1,4 @@
-# [OpenCV] Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'
+# Error : OpenCV(4.6.0) : -1 : error: (-5:Bad argument) in function 'add'
 
 OpenCV 의 Tracker 를 사용하여 Face Tracking 프로젝트를 연습하던 중에 두가지 오류가 발생했다.
 
