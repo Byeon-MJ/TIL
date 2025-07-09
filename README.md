@@ -60,7 +60,7 @@
 * [[OpenCV] 디스크립터 추출기](https://github.com/Byeon-MJ/TIL/blob/main/%5BOpenCV%5D%20%EB%94%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%84%B0%20%EC%B6%94%EC%B6%9C%EA%B8%B0.md)
 
 
-## Back-End
+## Backend
 ### Java
 * [[Java] JDK version 여러개 설치 및 전환](https://github.com/Byeon-MJ/TIL/blob/main/%5BJava%5D%20JDK%20version%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md)
 
@@ -69,7 +69,7 @@
 * [[SpringBoot] SpringBoot에서 preferred-json-mapper 설정의 역할](https://github.com/Byeon-MJ/TIL/blob/main/%5BSpringBoot%5D%20SpringBoot%EC%97%90%EC%84%9C%20preferred-json-mapper%20%EC%84%A4%EC%A0%95%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
 
 
-## Util
+## Utils
 ### Git
 * [[Git] 내가 보려고 정리한 Git 명령어 모음](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20%EB%82%B4%EA%B0%80%20%EB%B3%B4%EB%A0%A4%EA%B3%A0%20%EC%A0%95%EB%A6%AC%ED%95%9C%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md)
 * [[Git] Merge 정리 - 브랜치 병합](https://github.com/Byeon-MJ/TIL/blob/main/%5BGit%5D%20Merge%20%EC%A0%95%EB%A6%AC%20-%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EB%B3%91%ED%95%A9.md)
