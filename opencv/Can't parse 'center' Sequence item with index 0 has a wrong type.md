@@ -1,4 +1,4 @@
-# [Error] Can't parse 'center'. Sequence item with index 0 has a wrong type
+# Can't parse 'center'. Sequence item with index 0 has a wrong type
 
 OpenCV 를 이용하여 Face alignment 를 진행하는 도중에 발생한 오류
 
