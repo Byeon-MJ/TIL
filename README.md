@@ -119,6 +119,7 @@
 
 ## Java
 * [JDK version 여러개 설치 및 전환](https://github.com/Byeon-MJ/TIL/blob/main/java/JDK%20version%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md)
+* [Java Stream 정리](https://github.com/Byeon-MJ/TIL/blob/main/java/Java%20Stream%20%EC%A0%95%EB%A6%AC.md)
 
 
 ## SpringBoot
